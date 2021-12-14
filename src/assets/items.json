@@ -1,0 +1,4925 @@
+[
+  {
+    "Name": "The Sad Onion",
+    "Category": "I",
+    "ID": "1",
+    "Subname": "Tears up",
+    "Description": "Increases Tears by 0.7.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Sad_Onion",
+    "Image": "../assets/images/items/1.png"
+  },
+  {
+    "Name": "The Inner Eye",
+    "Category": "I",
+    "ID": "2",
+    "Subname": "Triple shot",
+    "Description": "Grants triple shot but decreases tears.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Inner_Eye",
+    "Image": "../assets/images/items/2.png"
+  },
+  {
+    "Name": "Spoon Bender",
+    "Category": "I",
+    "ID": "3",
+    "Subname": "Homing shots",
+    "Description": "Grants Isaac homing tears.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Spoon_Bender",
+    "Image": "../assets/images/items/3.png"
+  },
+  {
+    "Name": "Cricket's Head",
+    "Category": "I",
+    "ID": "4",
+    "Subname": "DMG up",
+    "Description": "Increases damage by 0.5, and multiplies it by 1.5x.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Cricket%27s_Head",
+    "Image": "../assets/images/items/4.png"
+  },
+  {
+    "Name": "My Reflection",
+    "Category": "I",
+    "ID": "5",
+    "Subname": "Boomerang tears",
+    "Description": "Gives Isaac's tears a boomerang effect, and increases range and shot speed.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/My_Reflection",
+    "Image": "../assets/images/items/5.png"
+  },
+  {
+    "Name": "Number One",
+    "Category": "I",
+    "ID": "6",
+    "Subname": "Tears up",
+    "Description": "+1.5 tears, -17.62 range",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Number_One",
+    "Image": "../assets/images/items/6.png"
+  },
+  {
+    "Name": "Blood of the Martyr",
+    "Category": "I",
+    "ID": "7",
+    "Subname": "DMG up",
+    "Description": "Increases Damage by 1, and turns Isaac's tears into blood tears.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Blood_of_the_Martyr",
+    "Image": "../assets/images/items/7.png"
+  },
+  {
+    "Name": "Brother Bobby",
+    "Category": "I",
+    "ID": "8",
+    "Subname": "Friends 'till the end",
+    "Description": "Follows Isaac around shooting normal tears.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Brother_Bobby",
+    "Image": "../assets/images/items/8.png"
+  },
+  {
+    "Name": "Skatole",
+    "Category": "I",
+    "ID": "9",
+    "Subname": "Fly love",
+    "Description": "All types of fly except Boom Fly and Red Boom Fly become passive and slowly move towards Isaac. Does not prevent contact damage.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Skatole",
+    "Image": "../assets/images/items/9.png"
+  },
+  {
+    "Name": "Halo of Flies",
+    "Category": "I",
+    "ID": "10",
+    "Subname": "Projectile protection",
+    "Description": "Spawns two pretty fly familiars that block enemy shots and deal contact damage to enemies.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Halo_of_Flies",
+    "Image": "../assets/images/items/10.png"
+  },
+  {
+    "Name": "1up!",
+    "Category": "I",
+    "ID": "11",
+    "Subname": "Extra life",
+    "Description": "Gives an extra life. Upon death, you will respawn in the previous room with full health and lose the 1up!.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/1up!",
+    "Image": "../assets/images/items/11.png"
+  },
+  {
+    "Name": "Magic Mushroom",
+    "Category": "I",
+    "ID": "12",
+    "Subname": "All Stats Up!",
+    "Description": "Increases most stats, enlarges Isaac, grants a heart container and restores all health.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Magic_Mushroom",
+    "Image": "../assets/images/items/12.png"
+  },
+  {
+    "Name": "The Virus",
+    "Category": "I",
+    "ID": "13",
+    "Subname": "Poison touch",
+    "Description": "Inflicts poison to enemies who make contact with Isaac. Speed down.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Virus",
+    "Image": "../assets/images/items/13.png"
+  },
+  {
+    "Name": "Roid Rage",
+    "Category": "I",
+    "ID": "14",
+    "Subname": "Speed and range up",
+    "Description": "Increases speed by 0.6, range by 5.25, and tear height by 0.5.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Roid_Rage",
+    "Image": "../assets/images/items/14.png"
+  },
+  {
+    "Name": "<3",
+    "Category": "I",
+    "ID": "15",
+    "Subname": "HP up",
+    "Description": "Grants Isaac one red heart container and fully restores Isaac's health.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Less_Than_Three",
+    "Image": "../assets/images/items/15.png"
+  },
+  {
+    "Name": "Raw Liver",
+    "Category": "I",
+    "ID": "16",
+    "Subname": "HP up",
+    "Description": "Grants 2 Heart Containers and completely restores health.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Raw_Liver",
+    "Image": "../assets/images/items/16.png"
+  },
+  {
+    "Name": "Skeleton Key",
+    "Category": "I",
+    "ID": "17",
+    "Subname": "99 keys",
+    "Description": "Sets your key count to the maximum of 99.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Skeleton_Key",
+    "Image": "../assets/images/items/17.png"
+  },
+  {
+    "Name": "A Dollar",
+    "Category": "I",
+    "ID": "18",
+    "Subname": "$$$",
+    "Description": "Gives Isaac 99 coins. Can be found multiple times in a single playthrough.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/A_Dollar",
+    "Image": "../assets/images/items/18.png"
+  },
+  {
+    "Name": "Boom!",
+    "Category": "I",
+    "ID": "19",
+    "Subname": "10 bombs",
+    "Description": "Grants 10 bombs.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Boom!",
+    "Image": "../assets/images/items/19.png"
+  },
+  {
+    "Name": "Transcendence",
+    "Category": "I",
+    "ID": "20",
+    "Subname": "We all float down here...",
+    "Description": "Grants flight.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Transcendence",
+    "Image": "../assets/images/items/20.png"
+  },
+  {
+    "Name": "The Compass",
+    "Category": "I",
+    "ID": "21",
+    "Subname": "The end is near",
+    "Description": "Reveals all special rooms (except secret rooms of any kind).",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Compass",
+    "Image": "../assets/images/items/21.png"
+  },
+  {
+    "Name": "Lunch",
+    "Category": "I",
+    "ID": "22",
+    "Subname": "HP Up",
+    "Description": "Adds 1 heart container.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Lunch",
+    "Image": "../assets/images/items/22.png"
+  },
+  {
+    "Name": "Dinner",
+    "Category": "I",
+    "ID": "23",
+    "Subname": "HP Up",
+    "Description": "Adds 1 heart container.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Dinner",
+    "Image": "../assets/images/items/23.png"
+  },
+  {
+    "Name": "Dessert",
+    "Category": "I",
+    "ID": "24",
+    "Subname": "HP Up",
+    "Description": "Grants Isaac one full red heart container.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Dessert",
+    "Image": "../assets/images/items/24.png"
+  },
+  {
+    "Name": "Breakfast",
+    "Category": "I",
+    "ID": "25",
+    "Subname": "HP up",
+    "Description": "Grants Isaac one full red heart container.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Breakfast",
+    "Image": "../assets/images/items/25.png"
+  },
+  {
+    "Name": "Rotten Meat",
+    "Category": "I",
+    "ID": "26",
+    "Subname": "HP up",
+    "Description": "Adds one heart container.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Rotten_Meat",
+    "Image": "../assets/images/items/26.png"
+  },
+  {
+    "Name": "Wooden Spoon",
+    "Category": "I",
+    "ID": "27",
+    "Subname": "Speed up",
+    "Description": "Increases speed by 0.3.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Wooden_Spoon",
+    "Image": "../assets/images/items/27.png"
+  },
+  {
+    "Name": "The Belt",
+    "Category": "I",
+    "ID": "28",
+    "Subname": "Speed up",
+    "Description": "Increases speed by 0.3.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Belt",
+    "Image": "../assets/images/items/28.png"
+  },
+  {
+    "Name": "Mom's Underwear",
+    "Category": "I",
+    "ID": "29",
+    "Subname": "Range up",
+    "Description": "Increases range.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mom%27s_Underwear",
+    "Image": "../assets/images/items/29.png"
+  },
+  {
+    "Name": "Mom's Heels",
+    "Category": "I",
+    "ID": "30",
+    "Subname": "Range up",
+    "Description": "Increases range.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mom%27s_Heels",
+    "Image": "../assets/images/items/30.png"
+  },
+  {
+    "Name": "Mom's Lipstick",
+    "Category": "I",
+    "ID": "31",
+    "Subname": "Range up",
+    "Description": "Increases range and shot height.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mom%27s_Lipstick",
+    "Image": "../assets/images/items/31.png"
+  },
+  {
+    "Name": "Wire Coat Hanger",
+    "Category": "I",
+    "ID": "32",
+    "Subname": "Tears up",
+    "Description": "Increases Tears by 0.7.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Wire_Coat_Hanger",
+    "Image": "../assets/images/items/32.png"
+  },
+  {
+    "Name": "The Bible",
+    "Category": "I",
+    "ID": "33",
+    "Subname": "Temporary Flight",
+    "Description": "Upon activation, Isaac gains flight, allowing him to pass over all obstacles in the current room. Instantly kills Mom, Mom's Heart, and It Lives when activated, but will kill Isaac when activated while fighting Satan.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Bible",
+    "Image": "../assets/images/items/33.png"
+  },
+  {
+    "Name": "The Book of Belial",
+    "Category": "I",
+    "ID": "34",
+    "Subname": "Temporary DMG up",
+    "Description": "Upon use increases damage by 2 for the current room and by a further +50% if the character also has the Blood of the Martyr.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Book_of_Belial",
+    "Image": "../assets/images/items/34.png"
+  },
+  {
+    "Name": "The Necronomicon",
+    "Category": "I",
+    "ID": "35",
+    "Subname": "Mass room damage",
+    "Description": "Damages all enemies in the room significantly.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Necronomicon",
+    "Image": "../assets/images/items/35.png"
+  },
+  {
+    "Name": "The Poop",
+    "Category": "I",
+    "ID": "36",
+    "Subname": "Plop!",
+    "Description": "Spawns a pile of poop where the character is standing and knocks nearby monsters back. May yield pickups like regular poop.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Poop",
+    "Image": "../assets/images/items/36.png"
+  },
+  {
+    "Name": "Mr. Boom",
+    "Category": "I",
+    "ID": "37",
+    "Subname": "Reusable bomb buddy",
+    "Description": "Drops a large bomb.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mr._Boom",
+    "Image": "../assets/images/items/37.png"
+  },
+  {
+    "Name": "Tammy's Head",
+    "Category": "I",
+    "ID": "38",
+    "Subname": "Reusable tear burst",
+    "Description": "Shoots 10 tears in a circle around Isaac, which retain the damage, shot speed, and special effects (such as poison) of Isaac's tears.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Tammy%27s_Head",
+    "Image": "../assets/images/items/38.png"
+  },
+  {
+    "Name": "Mom's Bra",
+    "Category": "I",
+    "ID": "39",
+    "Subname": "Mass Fear",
+    "Description": "Upon use, petrifies all enemies in the current room for approximately 4 seconds.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mom%27s_Bra",
+    "Image": "../assets/images/items/39.png"
+  },
+  {
+    "Name": "Kamikaze!",
+    "Category": "I",
+    "ID": "40",
+    "Subname": "Become the bomb!",
+    "Description": "Creates an explosion in the same area as Isaac, dealing half a heart of damage to him and also damaging all enemies caught in the blast radius.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Kamikaze!",
+    "Image": "../assets/images/items/40.png"
+  },
+  {
+    "Name": "Mom's Pad",
+    "Category": "I",
+    "ID": "41",
+    "Subname": "Gross...",
+    "Description": "Upon use, inflicts fear to all enemies in the room for 5 seconds.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mom%27s_Pad",
+    "Image": "../assets/images/items/41.png"
+  },
+  {
+    "Name": "Bob's Rotten Head",
+    "Category": "I",
+    "ID": "42",
+    "Subname": "Reusable ranged bomb",
+    "Description": "Upon use, Isaac holds a poison bomb which can be thrown towards any of the four cardinal points and explodes on impact.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Bob%27s_Rotten_Head",
+    "Image": "../assets/images/items/42.png"
+  },
+  {
+    "Name": "Teleport",
+    "Category": "I",
+    "ID": "44",
+    "Subname": "Teleport!",
+    "Description": "Teleports you to a random room on the level.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Teleport",
+    "Image": "../assets/images/items/44.png"
+  },
+  {
+    "Name": "Yum Heart",
+    "Category": "I",
+    "ID": "45",
+    "Subname": "Reusable Regeneration",
+    "Description": "Restores 1 whole red heart.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Yum_Heart",
+    "Image": "../assets/images/items/45.png"
+  },
+  {
+    "Name": "Lucky Foot",
+    "Category": "I",
+    "ID": "46",
+    "Subname": "Luck up",
+    "Description": "+1 Luck. Increases chance of winning Shell Game Beggar. (Independent of luck stat)",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Lucky_Foot",
+    "Image": "../assets/images/items/46.png"
+  },
+  {
+    "Name": "Doctor's Remote",
+    "Category": "I",
+    "ID": "47",
+    "Subname": "Reusable Air Strike",
+    "Description": "Sets a big red target on the ground (similar to the Epic Fetus item) which can be controlled with tear controls. After 6 seconds or by pressing space again, a huge explosive missile hits it, which damages all enemies caught in its blast radius.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Doctor%27s_Remote",
+    "Image": "../assets/images/items/47.png"
+  },
+  {
+    "Name": "Cupid's Arrow",
+    "Category": "I",
+    "ID": "48",
+    "Subname": "Piercing shots",
+    "Description": "Grants Isaac piercing tears that travel through enemies (but not obstacles) instead of breaking on impact with them.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Cupid%27s_Arrow",
+    "Image": "../assets/images/items/48.png"
+  },
+  {
+    "Name": "Shoop Da Whoop!",
+    "Category": "I",
+    "ID": "49",
+    "Subname": "BLLLARRRRGGG!",
+    "Description": "Fires a laser from Isaac's mouth.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Shoop_Da_Whoop!",
+    "Image": "../assets/images/items/49.png"
+  },
+  {
+    "Name": "Steven",
+    "Category": "I",
+    "ID": "50",
+    "Subname": "DMG up",
+    "Description": "Increases Damage by 1.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Steven_(Item)",
+    "Image": "../assets/images/items/50.png"
+  },
+  {
+    "Name": "Pentagram",
+    "Category": "I",
+    "ID": "51",
+    "Subname": "DMG up",
+    "Description": "Increases damage and increases the chance for a Devil or Angel Room to appear.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Pentagram",
+    "Image": "../assets/images/items/51.png"
+  },
+  {
+    "Name": "Dr. Fetus",
+    "Category": "I",
+    "ID": "52",
+    "Subname": "???",
+    "Description": "Tears are replaced by bombs that benefit from bomb-enhancing effects and slide for a fixed time after being fired.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Dr._Fetus",
+    "Image": "../assets/images/items/52.png"
+  },
+  {
+    "Name": "Magneto",
+    "Category": "I",
+    "ID": "53",
+    "Subname": "Item snatcher",
+    "Description": "Pulls pickups towards Isaac.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Magneto",
+    "Image": "../assets/images/items/53.png"
+  },
+  {
+    "Name": "Treasure Map",
+    "Category": "I",
+    "ID": "54",
+    "Subname": "Full visible map",
+    "Description": "Reveals all rooms for every floor. However, it does not reveal icons or secret rooms.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Treasure_Map",
+    "Image": "../assets/images/items/54.png"
+  },
+  {
+    "Name": "Mom's Eye",
+    "Category": "I",
+    "ID": "55",
+    "Subname": "Eye in the back of your head",
+    "Description": "Allows Isaac to fire tears from the back of his head.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mom%27s_Eye",
+    "Image": "../assets/images/items/55.png"
+  },
+  {
+    "Name": "Lemon Mishap",
+    "Category": "I",
+    "ID": "56",
+    "Subname": "Oops...",
+    "Description": "Creates a small yellow pool of creep, which damages enemies that cross it.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Lemon_Mishap",
+    "Image": "../assets/images/items/56.png"
+  },
+  {
+    "Name": "Distant Admiration",
+    "Category": "I",
+    "ID": "57",
+    "Subname": "Attack fly",
+    "Description": "A red attack fly circles further out than the Halo of Flies / Pretty Flies, but closer than Forever Alone. Deals more damage than Forever Alone.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Distant_Admiration",
+    "Image": "../assets/images/items/57.png"
+  },
+  {
+    "Name": "Book of Shadows",
+    "Category": "I",
+    "ID": "58",
+    "Subname": "Temporary Invincibility",
+    "Description": "Upon use, creates a protective shield nullifying all types of damage for 10 seconds.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Book_of_Shadows",
+    "Image": "../assets/images/items/58.png"
+  },
+  {
+    "Name": "The Ladder",
+    "Category": "I",
+    "ID": "60",
+    "Subname": "Building bridges",
+    "Description": "Allows Isaac to walk across gaps one square across by automatically placing a ladder between the two walkable sections.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Ladder",
+    "Image": "../assets/images/items/60.png"
+  },
+  {
+    "Name": "Charm of the Vampire",
+    "Category": "I",
+    "ID": "62",
+    "Subname": "Kills heal",
+    "Description": "Heals the character for half of a red heart for every 13 monsters killed.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Charm_of_the_Vampire",
+    "Image": "../assets/images/items/62.png"
+  },
+  {
+    "Name": "The Battery",
+    "Category": "I",
+    "ID": "63",
+    "Subname": "Stores energy",
+    "Description": "\"Activated Items can be \"\"overcharged\"\" to allow for an additional use.\"",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Battery",
+    "Image": "../assets/images/items/63.png"
+  },
+  {
+    "Name": "Steam Sale",
+    "Category": "I",
+    "ID": "64",
+    "Subname": "50% off",
+    "Description": "Reduces all Shop prices by 50%, rounded down to 7 coins for an item, rounded up to 2-3 coins for a pickup.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Steam_Sale",
+    "Image": "../assets/images/items/64.png"
+  },
+  {
+    "Name": "Anarchist Cookbook",
+    "Category": "I",
+    "ID": "65",
+    "Subname": "Summon bombs",
+    "Description": "Spawns six troll bombs around the room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Anarchist_Cookbook",
+    "Image": "../assets/images/items/65.png"
+  },
+  {
+    "Name": "The Hourglass",
+    "Category": "I",
+    "ID": "66",
+    "Subname": "Temporary enemy slowdown",
+    "Description": "Upon activation, enemies and their projectiles are slowed down for a short duration.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Hourglass",
+    "Image": "../assets/images/items/66.png"
+  },
+  {
+    "Name": "Sister Maggy",
+    "Category": "I",
+    "ID": "67",
+    "Subname": "Friends 'till the end",
+    "Description": "A familiar that follows Isaac around shooting blood tears.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Sister_Maggy",
+    "Image": "../assets/images/items/67.png"
+  },
+  {
+    "Name": "Technology",
+    "Category": "I",
+    "ID": "68",
+    "Subname": "Laser tears",
+    "Description": "Replaces tears with a piercing laser with unlimited range.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Technology",
+    "Image": "../assets/images/items/68.png"
+  },
+  {
+    "Name": "Chocolate Milk",
+    "Category": "I",
+    "ID": "69",
+    "Subname": "Charge shots",
+    "Description": "Grants charged tears that deal greater damage when fully charged.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Chocolate_Milk",
+    "Image": "../assets/images/items/69.png"
+  },
+  {
+    "Name": "Growth Hormones",
+    "Category": "I",
+    "ID": "70",
+    "Subname": "Speed + DMG up",
+    "Description": "Increases damage by 1 and speed by 0.4.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Growth_Hormones",
+    "Image": "../assets/images/items/70.png"
+  },
+  {
+    "Name": "Mini Mush",
+    "Category": "I",
+    "ID": "71",
+    "Subname": "Speed + range up",
+    "Description": "Increases Speed and Shot Height and decreases Isaac's size, but lowers Range.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mini_Mush",
+    "Image": "../assets/images/items/71.png"
+  },
+  {
+    "Name": "Rosary",
+    "Category": "I",
+    "ID": "72",
+    "Subname": "Faith up",
+    "Description": "Adds 3 Soul Hearts and increases the chance for The Bible to appear in any item pool.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Rosary",
+    "Image": "../assets/images/items/72.png"
+  },
+  {
+    "Name": "Cube of Meat",
+    "Category": "I",
+    "ID": "73",
+    "Subname": "Gotta meat 'em all!",
+    "Description": "Orbiting familiar that blocks enemy shots and deals damage to enemies. If collected while already having one, makes the familiar evolve. Only drops from Horsemen. Similar to Ball of Bandages.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Cube_of_Meat",
+    "Image": "../assets/images/items/73.png"
+  },
+  {
+    "Name": "A Quarter",
+    "Category": "I",
+    "ID": "74",
+    "Subname": "+25 coins",
+    "Description": "Adds 25 to Isaac's coin count, capping at 99.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/A_Quarter",
+    "Image": "../assets/images/items/74.png"
+  },
+  {
+    "Name": "PHD",
+    "Category": "I",
+    "ID": "75",
+    "Subname": "Better pills",
+    "Description": "Converts all bad pills into good pills, spawns one pill pickup and restores health. Identifies all pills upon pickup.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/PHD",
+    "Image": "../assets/images/items/75.png"
+  },
+  {
+    "Name": "X-Ray Vision",
+    "Category": "I",
+    "ID": "76",
+    "Subname": "I've seen everything",
+    "Description": "Reveals and opens all Secret Room and Super Secret Room entrances.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/X-Ray_Vision",
+    "Image": "../assets/images/items/76.png"
+  },
+  {
+    "Name": "My Little Unicorn",
+    "Category": "I",
+    "ID": "77",
+    "Subname": "Temporary badass",
+    "Description": "Upon use, grants invulnerability and increased speed for five seconds, removing the ability to shoot tears and replacing it with the ability to deal contact damage to enemies.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/My_Little_Unicorn",
+    "Image": "../assets/images/items/77.png"
+  },
+  {
+    "Name": "Book of Revelations",
+    "Category": "I",
+    "ID": "78",
+    "Subname": "Reusable soul protection",
+    "Description": "Adds 1 soul heart, increases the chance for a Devil or Angel Room to appear, and increases the chance for the next boss to be a Horseman (except on XL floors and floors with fixed bosses such as Mom).",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Book_of_Revelations",
+    "Image": "../assets/images/items/78.png"
+  },
+  {
+    "Name": "The Mark",
+    "Category": "I",
+    "ID": "79",
+    "Subname": "DMG up",
+    "Description": "Increases Damage and Speed, plus adds one Soul Heart.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Mark",
+    "Image": "../assets/images/items/79.png"
+  },
+  {
+    "Name": "The Pact",
+    "Category": "I",
+    "ID": "80",
+    "Subname": "DMG + Tears UP",
+    "Description": "Increases damage by 0.5, tears by 0.7 and grants two soul hearts upon pickup.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Pact",
+    "Image": "../assets/images/items/80.png"
+  },
+  {
+    "Name": "Dead Cat",
+    "Category": "I",
+    "ID": "81",
+    "Subname": "9 lives",
+    "Description": "Sets the amount of red heart containers to 1, but gives Isaac 9 extra lives. After dying, Isaac is teleported to the last safe room. New heart containers can be obtained after picking up this item, but after each death, the number of heart containers is set to 1 again.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Dead_Cat",
+    "Image": "../assets/images/items/81.png"
+  },
+  {
+    "Name": "Lord of the Pit",
+    "Category": "I",
+    "ID": "82",
+    "Subname": "Demon wings",
+    "Description": "Grants flight and increases speed.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Lord_of_the_Pit",
+    "Image": "../assets/images/items/82.png"
+  },
+  {
+    "Name": "The Nail",
+    "Category": "I",
+    "ID": "83",
+    "Subname": "Temporary demon form",
+    "Description": "Adds one soul heart and allows the breaking of rocks and damaging enemies by simply walking over them. Increases damage and decreases speed. All effects except for the Soul Heart wear off upon leaving the room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Nail",
+    "Image": "../assets/images/items/83.png"
+  },
+  {
+    "Name": "We Need to Go Deeper!",
+    "Category": "I",
+    "ID": "84",
+    "Subname": "Reusable level skip",
+    "Description": "Creates a trapdoor to go to the next floor. If used in The Womb, it will create a trapdoor to Sheol, even if the player hasn't unlocked it.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/We_Need_to_Go_Deeper!",
+    "Image": "../assets/images/items/84.png"
+  },
+  {
+    "Name": "Deck of Cards",
+    "Category": "I",
+    "ID": "85",
+    "Subname": "Reusable Card Generator",
+    "Description": "Gives Isaac a random tarot card.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Deck_of_Cards",
+    "Image": "../assets/images/items/85.png"
+  },
+  {
+    "Name": "Monstro's Tooth",
+    "Category": "I",
+    "ID": "86",
+    "Subname": "Summon Monstro",
+    "Description": "Monstro jumps onto a random enemy, doing area damage. Can damage/kill the player if summoned in an room without enemies.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Monstro%27s_Tooth",
+    "Image": "../assets/images/items/86.png"
+  },
+  {
+    "Name": "Loki's Horns",
+    "Category": "I",
+    "ID": "87",
+    "Subname": "Cross Tears",
+    "Description": "Gives a random chance for projectiles to fire in all 4 cardinal directions.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Loki%27s_Horns",
+    "Image": "../assets/images/items/87.png"
+  },
+  {
+    "Name": "Little Chubby",
+    "Category": "I",
+    "ID": "88",
+    "Subname": "Attack Buddy",
+    "Description": "A familiar that charges forward and deals touch damage to any enemies in its path.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Little_Chubby",
+    "Image": "../assets/images/items/88.png"
+  },
+  {
+    "Name": "Spider Bite",
+    "Category": "I",
+    "ID": "89",
+    "Subname": "Slow effect",
+    "Description": "Adds a chance to shoot slowing tears, reducing speed of enemy movement and any projectile fired by them.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Spider_Bite",
+    "Image": "../assets/images/items/89.png"
+  },
+  {
+    "Name": "The Small Rock",
+    "Category": "I",
+    "ID": "90",
+    "Subname": "DMG up",
+    "Description": "Increases damage by 1, increases tears by 0.2, and decreases speed by 0.1.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Small_Rock",
+    "Image": "../assets/images/items/90.png"
+  },
+  {
+    "Name": "Spelunker Hat",
+    "Category": "I",
+    "ID": "91",
+    "Subname": "See-through doors",
+    "Description": "Reveals type of adjacent rooms, including location for secret rooms and super secret rooms.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Spelunker_Hat",
+    "Image": "../assets/images/items/91.png"
+  },
+  {
+    "Name": "Super Bandage",
+    "Category": "I",
+    "ID": "92",
+    "Subname": "+2 hearts",
+    "Description": "Grants one Heart Container and gives 2 Soul Hearts.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Super_Bandage",
+    "Image": "../assets/images/items/92.png"
+  },
+  {
+    "Name": "The Gamekid",
+    "Category": "I",
+    "ID": "93",
+    "Subname": "Temporary Man-Pac",
+    "Description": "Upon use, turns the character into a into a Pac-Man-like creature for 5 seconds, granting invulnerability, inflicting fear on all enemies, and replenishing half a red heart container for every two enemies killed.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Gamekid",
+    "Image": "../assets/images/items/93.png"
+  },
+  {
+    "Name": "Sack of Pennies",
+    "Category": "I",
+    "ID": "94",
+    "Subname": "Gives money",
+    "Description": "Isaac is followed by a small bag that drops a coin every 2 rooms.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Sack_of_Pennies",
+    "Image": "../assets/images/items/94.png"
+  },
+  {
+    "Name": "Robo-Baby",
+    "Category": "I",
+    "ID": "95",
+    "Subname": "Friends 'till the bbbbzzzt",
+    "Description": "Follows Isaac around, shooting enemies with an eye laser similar to Technology.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Robo-Baby",
+    "Image": "../assets/images/items/95.png"
+  },
+  {
+    "Name": "Little C.H.A.D.",
+    "Category": "I",
+    "ID": "96",
+    "Subname": "Gives kisses",
+    "Description": "A familiar who will drop a half red heart every 3 rooms.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Little_C.H.A.D.",
+    "Image": "../assets/images/items/96.png"
+  },
+  {
+    "Name": "The Book of Sin",
+    "Category": "I",
+    "ID": "97",
+    "Subname": "Reusable Item Generator",
+    "Description": "Spawns a random pickup, pill, card, or trinket.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Book_of_Sin",
+    "Image": "../assets/images/items/97.png"
+  },
+  {
+    "Name": "The Relic",
+    "Category": "I",
+    "ID": "98",
+    "Subname": "Soul generator",
+    "Description": "Isaac is followed by a small blue cross that will drop a Soul Heart every 5-6 rooms.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Relic",
+    "Image": "../assets/images/items/98.png"
+  },
+  {
+    "Name": "Little Gish",
+    "Category": "I",
+    "ID": "99",
+    "Subname": "Sticky friend",
+    "Description": "Spawns a familiar that follows Isaac around and fires slowing tears, impeding enemies' speed.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Little_Gish",
+    "Image": "../assets/images/items/99.png"
+  },
+  {
+    "Name": "Little Steven",
+    "Category": "I",
+    "ID": "100",
+    "Subname": "Psychic friend",
+    "Description": "Spawns a familiar that follows Isaac around and fires homing tears.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Little_Steven",
+    "Image": "../assets/images/items/100.png"
+  },
+  {
+    "Name": "The Halo",
+    "Category": "I",
+    "ID": "101",
+    "Subname": "All stats up",
+    "Description": "Grants one Heart Container, +0.3 Damage, +0.2 Tears, +0.25 Range, +0.3 Speed, and +0.5 Tear Height.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Halo",
+    "Image": "../assets/images/items/101.png"
+  },
+  {
+    "Name": "Mom's Bottle of Pills",
+    "Category": "I",
+    "ID": "102",
+    "Subname": "Reusable pill generator",
+    "Description": "Gives Isaac a random pill, and will cause him to drop any held Q-slot item (If any). The player will only receive six different pill types in one playthrough.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mom%27s_Bottle_of_Pills",
+    "Image": "../assets/images/items/102.png"
+  },
+  {
+    "Name": "The Common Cold",
+    "Category": "I",
+    "ID": "103",
+    "Subname": "Poison Damage",
+    "Description": "Adds a chance to shoot poison tears, dealing damage over time when inflicted.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Common_Cold",
+    "Image": "../assets/images/items/103.png"
+  },
+  {
+    "Name": "The Parasite",
+    "Category": "I",
+    "ID": "104",
+    "Subname": "Split Shot",
+    "Description": "Isaac's tears split in two when they hit something.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Parasite",
+    "Image": "../assets/images/items/104.png"
+  },
+  {
+    "Name": "The D6",
+    "Category": "I",
+    "ID": "105",
+    "Subname": "Reroll Your Destiny",
+    "Description": "Allows Isaac to re-roll collectible items in the current room into other items, depending on the current room's Item Pool.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_D6",
+    "Image": "../assets/images/items/105.png"
+  },
+  {
+    "Name": "Mr. Mega",
+    "Category": "I",
+    "ID": "106",
+    "Subname": "Blast damage",
+    "Description": "Gives Isaac 5 bombs, and makes all dropped bombs larger, which have an increased blast radius and increased damage.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mr._Mega",
+    "Image": "../assets/images/items/106.png"
+  },
+  {
+    "Name": "The Pinking Shears",
+    "Category": "I",
+    "ID": "107",
+    "Subname": "Cut and Run",
+    "Description": "Separates Isaac's head and body for the current room. Isaac's head, which now has flight, will be under the player's control, while his body will seek out enemies to attack by contact damage.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Pinking_Shears",
+    "Image": "../assets/images/items/107.png"
+  },
+  {
+    "Name": "The Wafer",
+    "Category": "I",
+    "ID": "108",
+    "Subname": "Damage resistance",
+    "Description": "All sources of damage that would cause more than one half heart of damage are reduced to one half heart instead.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Wafer",
+    "Image": "../assets/images/items/108.png"
+  },
+  {
+    "Name": "Money = Power",
+    "Category": "I",
+    "ID": "109",
+    "Subname": "$$$ = DMG",
+    "Description": "Increases damage by 0.04 for every coin Isaac has, up to +3.96 damage at 99 coins.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Money_%3D_Power",
+    "Image": "../assets/images/items/109.png"
+  },
+  {
+    "Name": "Mom's Contacts",
+    "Category": "I",
+    "ID": "110",
+    "Subname": "Freeze effect",
+    "Description": "Adds a chance to shoot petrifying tears, which stop enemies in place and prevent them from moving or attacking. Range up.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mom%27s_Contacts",
+    "Image": "../assets/images/items/110.png"
+  },
+  {
+    "Name": "The Bean",
+    "Category": "I",
+    "ID": "111",
+    "Subname": "Toot on command",
+    "Description": "Isaac releases bad gas, poisoning any enemy in close vicinity.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Bean",
+    "Image": "../assets/images/items/111.png"
+  },
+  {
+    "Name": "Guardian Angel",
+    "Category": "I",
+    "ID": "112",
+    "Subname": "Extra protection",
+    "Description": "Spawns an orbital familiar that blocks enemy projectiles, deals contact damage to enemies, and increases the speed of all orbital familiars.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Guardian_Angel",
+    "Image": "../assets/images/items/112.png"
+  },
+  {
+    "Name": "Demon Baby",
+    "Category": "I",
+    "ID": "113",
+    "Subname": "Auto-turret friend",
+    "Description": "Follows Isaac and automatically fires at enemies in its reach.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Demon_Baby",
+    "Image": "../assets/images/items/113.png"
+  },
+  {
+    "Name": "Mom's Knife",
+    "Category": "I",
+    "ID": "114",
+    "Subname": "Stab stab stab",
+    "Description": "Isaac's tears are replaced by a knife that pierces enemies, can travel through obstacles, and can hurt enemies while Isaac is holding it. Holding down the fire button before firing increases its range and power.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mom%27s_Knife",
+    "Image": "../assets/images/items/114.png"
+  },
+  {
+    "Name": "Ouija Board",
+    "Category": "I",
+    "ID": "115",
+    "Subname": "Spectral tears",
+    "Description": "Grants spectral tears that travel through obstacles (but not enemies) instead of breaking on impact with them.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Ouija_Board",
+    "Image": "../assets/images/items/115.png"
+  },
+  {
+    "Name": "9 Volt",
+    "Category": "I",
+    "ID": "116",
+    "Subname": "Quicker charge",
+    "Description": "Reduces the charge of any Activated Items by 1. Any 1 charge items instead have timed recharges.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/9_Volt",
+    "Image": "../assets/images/items/116.png"
+  },
+  {
+    "Name": "Dead Bird",
+    "Category": "I",
+    "ID": "117",
+    "Subname": "Protective buddy",
+    "Description": "Spawns a flying familiar for the current room that chases enemies whenever Isaac takes damage.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Dead_Bird",
+    "Image": "../assets/images/items/117.png"
+  },
+  {
+    "Name": "Brimstone",
+    "Category": "I",
+    "ID": "118",
+    "Subname": "Blood laser barrage",
+    "Description": "Tears are replaced by a laser beam that pierces through all enemies and obstacles in its path and deals high damage. Can only be fired after a short charge-up period.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Brimstone",
+    "Image": "../assets/images/items/118.png"
+  },
+  {
+    "Name": "Blood Bag",
+    "Category": "I",
+    "ID": "119",
+    "Subname": "HP up",
+    "Description": "Grants one red heart container, restores 5 red hearts, and increases speed by 0.3.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Blood_Bag",
+    "Image": "../assets/images/items/119.png"
+  },
+  {
+    "Name": "Odd Mushroom",
+    "Category": "I",
+    "ID": "120",
+    "Subname": "Fire rate up",
+    "Description": "+1.7 tears, +0.3 speed, reduces damage.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Odd_Mushroom_(Thin)",
+    "Image": "../assets/images/items/120.png"
+  },
+  {
+    "Name": "Odd Mushroom",
+    "Category": "I",
+    "ID": "121",
+    "Subname": "DMG up",
+    "Description": "Grants an empty heart container. Increases damage, range and shot height while reducing speed.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Odd_Mushroom_(Large)",
+    "Image": "../assets/images/items/121.png"
+  },
+  {
+    "Name": "Whore of Babylon",
+    "Category": "I",
+    "ID": "122",
+    "Subname": "Curse up",
+    "Description": "Increases damage and speed whenever Isaac has half a red heart or less (one red heart for Eve), ignoring any soul or black hearts.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Whore_of_Babylon",
+    "Image": "../assets/images/items/122.png"
+  },
+  {
+    "Name": "Monster Manual",
+    "Category": "I",
+    "ID": "123",
+    "Subname": "Temporary buddy generator",
+    "Description": "Summons a random familiar for the current room. Can summon familiars not yet unlocked.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Monster_Manual",
+    "Image": "../assets/images/items/123.png"
+  },
+  {
+    "Name": "Dead Sea Scrolls",
+    "Category": "I",
+    "ID": "124",
+    "Subname": "It's a mystery",
+    "Description": "Triggers the effect of a random activated item from a list of possible options (not every activated item is included).",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Dead_Sea_Scrolls",
+    "Image": "../assets/images/items/124.png"
+  },
+  {
+    "Name": "Bobby-Bomb",
+    "Category": "I",
+    "ID": "125",
+    "Subname": "Homing bombs!",
+    "Description": "Gives Isaac 5 Bombs, and causes all dropped bombs to home towards the closest enemy.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Bobby-Bomb",
+    "Image": "../assets/images/items/125.png"
+  },
+  {
+    "Name": "Razor Blade",
+    "Category": "I",
+    "ID": "126",
+    "Subname": "Feel my pain",
+    "Description": "Upon use, deals one heart of damage to Isaac and grants +1.2 damage for the current room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Razor_Blade",
+    "Image": "../assets/images/items/126.png"
+  },
+  {
+    "Name": "Forget Me Now",
+    "Category": "I",
+    "ID": "127",
+    "Subname": "I don't remember",
+    "Description": "When activated, the level ends and is freshly regenerated with new rooms, monsters, and items. Disappears after use.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Forget_Me_Now",
+    "Image": "../assets/images/items/127.png"
+  },
+  {
+    "Name": "Forever Alone",
+    "Category": "I",
+    "ID": "128",
+    "Subname": "Attack fly",
+    "Description": "Spawns a blue attack fly that orbits a long distance from Isaac.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Forever_Alone",
+    "Image": "../assets/images/items/128.png"
+  },
+  {
+    "Name": "Bucket of Lard",
+    "Category": "I",
+    "ID": "129",
+    "Subname": "HP up",
+    "Description": "Grants two empty heart containers and heals Isaac by half a heart, but decreases speed by 0.2.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Bucket_of_Lard",
+    "Image": "../assets/images/items/129.png"
+  },
+  {
+    "Name": "A Pony",
+    "Category": "I",
+    "ID": "130",
+    "Subname": "Flight + Dash Attack",
+    "Description": "Passively grants flight and increased speed. Upon use, Isaac charges in the direction the pony is facing, becoming invulnerable during the charge and damaging enemies.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/A_Pony",
+    "Image": "../assets/images/items/130.png"
+  },
+  {
+    "Name": "Bomb Bag",
+    "Category": "I",
+    "ID": "131",
+    "Subname": "Gives bombs",
+    "Description": "Isaac is followed by a small bag that drops a Bomb, 1+1 Free, or a Troll Bomb every 3 rooms.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Bomb_Bag",
+    "Image": "../assets/images/items/131.png"
+  },
+  {
+    "Name": "A Lump of Coal",
+    "Category": "I",
+    "ID": "132",
+    "Subname": "My Xmas Present",
+    "Description": "The more distance tears travel, the more damage they will do.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/A_Lump_of_Coal",
+    "Image": "../assets/images/items/132.png"
+  },
+  {
+    "Name": "Guppy's Paw",
+    "Category": "I",
+    "ID": "133",
+    "Subname": "Soul converter",
+    "Description": "Removes one red heart container in exchange for gaining 3 Soul Hearts.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Guppy%27s_Paw",
+    "Image": "../assets/images/items/133.png"
+  },
+  {
+    "Name": "Guppy's Tail",
+    "Category": "I",
+    "ID": "134",
+    "Subname": "Cursed?",
+    "Description": "Increases chance of finding gold chests and normal chests, but reduces chance of finding pickups.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Guppy%27s_Tail",
+    "Image": "../assets/images/items/134.png"
+  },
+  {
+    "Name": "IV Bag",
+    "Category": "I",
+    "ID": "135",
+    "Subname": "Portable blood bank",
+    "Description": "Upon activation, Isaac loses a half-heart (one whole heart in The Womb onwards) for a random amount of coins, similar to the blood donation machine.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/IV_Bag",
+    "Image": "../assets/images/items/135.png"
+  },
+  {
+    "Name": "Best Friend",
+    "Category": "I",
+    "ID": "136",
+    "Subname": "Friends 'till the end",
+    "Description": "Deploys a decoy Isaac that eventually explodes with an increased blast radius.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Best_Friend",
+    "Image": "../assets/images/items/136.png"
+  },
+  {
+    "Name": "Remote Detonator",
+    "Category": "I",
+    "ID": "137",
+    "Subname": "Remote bomb detonation",
+    "Description": "Bombs you place explode only when you use this item. Gives 5 bombs.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Remote_Detonator",
+    "Image": "../assets/images/items/137.png"
+  },
+  {
+    "Name": "Stigmata",
+    "Category": "I",
+    "ID": "138",
+    "Subname": "DMG + HP up",
+    "Description": "Increases damage, and adds 1 heart container.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Stigmata",
+    "Image": "../assets/images/items/138.png"
+  },
+  {
+    "Name": "Mom's Purse",
+    "Category": "I",
+    "ID": "139",
+    "Subname": "More trinket room",
+    "Description": "Allows Isaac to hold 1 additional trinket.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mom%27s_Purse",
+    "Image": "../assets/images/items/139.png"
+  },
+  {
+    "Name": "Bob's Curse",
+    "Category": "I",
+    "ID": "140",
+    "Subname": "+5 poison bombs",
+    "Description": "Gives 5 bombs and grants all bombs poison effect.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Bob%27s_Curse",
+    "Image": "../assets/images/items/140.png"
+  },
+  {
+    "Name": "Pageant Boy",
+    "Category": "I",
+    "ID": "141",
+    "Subname": "Ultimate grand supreme",
+    "Description": "Spawns several coins around Isaac.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Pageant_Boy",
+    "Image": "../assets/images/items/141.png"
+  },
+  {
+    "Name": "Scapular",
+    "Category": "I",
+    "ID": "142",
+    "Subname": "You have been blessed",
+    "Description": "Once per room, when Isaac is reduced to his last half red Heart, the aura around his head temporarily vanishes and he is granted one Soul Heart.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Scapular",
+    "Image": "../assets/images/items/142.png"
+  },
+  {
+    "Name": "Speed Ball",
+    "Category": "I",
+    "ID": "143",
+    "Subname": "Speed + shot speed up",
+    "Description": "Increases speed by 0.3 and shot speed by 20%.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Speed_Ball",
+    "Image": "../assets/images/items/143.png"
+  },
+  {
+    "Name": "Bum Friend",
+    "Category": "I",
+    "ID": "144",
+    "Subname": "He's greedy",
+    "Description": "A portable beggar who follows Isaac, picks up coins for himself, and occasionally drops a pickup after collecting a coin. Does not spawn collectibles.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Bum_Friend",
+    "Image": "../assets/images/items/144.png"
+  },
+  {
+    "Name": "Guppy's Head",
+    "Category": "I",
+    "ID": "145",
+    "Subname": "Reusable fly hive",
+    "Description": "Spawns 2-4 blue flies to damage enemies.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Guppy%27s_Head",
+    "Image": "../assets/images/items/145.png"
+  },
+  {
+    "Name": "Prayer Card",
+    "Category": "I",
+    "ID": "146",
+    "Subname": "Reusable eternity",
+    "Description": "Grants an eternal heart per use.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Prayer_Card",
+    "Image": "../assets/images/items/146.png"
+  },
+  {
+    "Name": "Notched Axe",
+    "Category": "I",
+    "ID": "147",
+    "Subname": "Rocks don't stand a chance",
+    "Description": "Isaac holds the axe above his head for as long as the spacebar button is held (or until he leaves the room). While holding the axe, Isaac can break any rock he touches, but cannot attack or pick up other items.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Notched_Axe",
+    "Image": "../assets/images/items/147.png"
+  },
+  {
+    "Name": "Infestation",
+    "Category": "I",
+    "ID": "148",
+    "Subname": "They grow inside",
+    "Description": "1-3 blue flies randomly spawn every time Isaac gets hit.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Infestation",
+    "Image": "../assets/images/items/148.png"
+  },
+  {
+    "Name": "Ipecac",
+    "Category": "I",
+    "ID": "149",
+    "Subname": "Explosive shots",
+    "Description": "Replaces tears with explosive and poisoning projectiles fired in an arc from the mouth.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Ipecac",
+    "Image": "../assets/images/items/149.png"
+  },
+  {
+    "Name": "Tough Love",
+    "Category": "I",
+    "ID": "150",
+    "Subname": "Tooth shot",
+    "Description": "Adds a chance to shoot a tooth instead of a tear, which deals greater damage than regular tears.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Tough_Love",
+    "Image": "../assets/images/items/150.png"
+  },
+  {
+    "Name": "The Mulligan",
+    "Category": "I",
+    "ID": "151",
+    "Subname": "They grow inside",
+    "Description": "Tears have a 1/6 chance of spawning allied blue flies when they hit an enemy.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Mulligan",
+    "Image": "../assets/images/items/151.png"
+  },
+  {
+    "Name": "Technology 2",
+    "Category": "I",
+    "ID": "152",
+    "Subname": "Laser",
+    "Description": "Decreases damage and replaces right eye tears with a unlimited range, piercing laser which fires continuously.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Technology_2",
+    "Image": "../assets/images/items/152.png"
+  },
+  {
+    "Name": "Mutant Spider",
+    "Category": "I",
+    "ID": "153",
+    "Subname": "Quad shot",
+    "Description": "Grants quadruple shot but decreases tears.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mutant_Spider",
+    "Image": "../assets/images/items/153.png"
+  },
+  {
+    "Name": "Chemical Peel",
+    "Category": "I",
+    "ID": "154",
+    "Subname": "DMG up",
+    "Description": "Tears fired from left eye do increased damage.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Chemical_Peel",
+    "Image": "../assets/images/items/154.png"
+  },
+  {
+    "Name": "The Peeper",
+    "Category": "I",
+    "ID": "155",
+    "Subname": "Plop!",
+    "Description": "Spawns a familiar that floats slowly around the room on a zig-zag pattern similar to Boom Flies damaging enemies it passes through.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Peeper",
+    "Image": "../assets/images/items/155.png"
+  },
+  {
+    "Name": "Habit",
+    "Category": "I",
+    "ID": "156",
+    "Subname": "Item Martyr",
+    "Description": "When Isaac is hit, 1 point of an item's charge is filled.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Habit",
+    "Image": "../assets/images/items/156.png"
+  },
+  {
+    "Name": "Bloody Lust",
+    "Category": "I",
+    "ID": "157",
+    "Subname": "RAGE!",
+    "Description": "Increases damage as Isaac receives damage. Damage increase stays for the whole floor.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Bloody_Lust",
+    "Image": "../assets/images/items/157.png"
+  },
+  {
+    "Name": "Crystal Ball",
+    "Category": "I",
+    "ID": "158",
+    "Subname": "I see my future",
+    "Description": "Reveals the map (except the Super Secret Room) and drops a random Tarot Card or soul heart.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Crystal_Ball",
+    "Image": "../assets/images/items/158.png"
+  },
+  {
+    "Name": "Spirit of the Night",
+    "Category": "I",
+    "ID": "159",
+    "Subname": "Scary",
+    "Description": "Grants spectral tears and flight.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Spirit_of_the_Night",
+    "Image": "../assets/images/items/159.png"
+  },
+  {
+    "Name": "Crack the Sky",
+    "Category": "I",
+    "ID": "160",
+    "Subname": "Holy white death",
+    "Description": "Summons multiple beams of light in random locations around the room, dealing a large amount of damage to any enemy that touches them.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Crack_the_Sky",
+    "Image": "../assets/images/items/160.png"
+  },
+  {
+    "Name": "Ankh",
+    "Category": "I",
+    "ID": "161",
+    "Subname": "Eternal life?",
+    "Description": "Upon death, the player will respawn as ??? with 3 soul hearts.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Ankh",
+    "Image": "../assets/images/items/161.png"
+  },
+  {
+    "Name": "Celtic Cross",
+    "Category": "I",
+    "ID": "162",
+    "Subname": "You feel blessed",
+    "Description": "Grants a chance to trigger the Book of Shadows effect upon taking damage, creating a shield that nullifies all types of damage for 7 seconds.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Celtic_Cross",
+    "Image": "../assets/images/items/162.png"
+  },
+  {
+    "Name": "Ghost Baby",
+    "Category": "I",
+    "ID": "163",
+    "Subname": "Spectral buddy",
+    "Description": "Spawns a familiar that follows Isaac around and fires spectral tears.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Ghost_Baby",
+    "Image": "../assets/images/items/163.png"
+  },
+  {
+    "Name": "The Candle",
+    "Category": "I",
+    "ID": "164",
+    "Subname": "Reusable flame",
+    "Description": "Throws out a blue flame that can pass over gaps (but not through rocks). The flame damages anything in its path.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Candle",
+    "Image": "../assets/images/items/164.png"
+  },
+  {
+    "Name": "Cat-O-Nine-Tails",
+    "Category": "I",
+    "ID": "165",
+    "Subname": "Shot speed + damage up",
+    "Description": "Increases Shot Speed and damage.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Cat-O-Nine-Tails",
+    "Image": "../assets/images/items/165.png"
+  },
+  {
+    "Name": "D20",
+    "Category": "I",
+    "ID": "166",
+    "Subname": "Reroll the basics",
+    "Description": "Rerolls all pickups in the current room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/D20",
+    "Image": "../assets/images/items/166.png"
+  },
+  {
+    "Name": "Harlequin Baby",
+    "Category": "I",
+    "ID": "167",
+    "Subname": "Double shot buddy",
+    "Description": "Spawns a familiar that follows Isaac around and fires two tears at once in a V-pattern.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Harlequin_Baby",
+    "Image": "../assets/images/items/167.png"
+  },
+  {
+    "Name": "Epic Fetus",
+    "Category": "I",
+    "ID": "168",
+    "Subname": "On-demand air strike",
+    "Description": "Isaac's tears are replaced with guided missiles, like those used by the Doctor's Remote.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Epic_Fetus",
+    "Image": "../assets/images/items/168.png"
+  },
+  {
+    "Name": "Polyphemus",
+    "Category": "I",
+    "ID": "169",
+    "Subname": "Mega Tears",
+    "Description": "Makes Isaac shoot one huge tear. Also reduces Tears to minimum. Damage increased . If tear does more damage than an enemy's life, the tear continues to travel with the extra remaining damage.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Polyphemus",
+    "Image": "../assets/images/items/169.png"
+  },
+  {
+    "Name": "Daddy Longlegs",
+    "Category": "I",
+    "ID": "170",
+    "Subname": "Daddy's love",
+    "Description": "Daddy Long Legs' shadow follows Isaac and stomps on enemies.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Daddy_Longlegs",
+    "Image": "../assets/images/items/170.png"
+  },
+  {
+    "Name": "Spider Butt",
+    "Category": "I",
+    "ID": "171",
+    "Subname": "Mass enemy slowdown + damage",
+    "Description": "Damages all enemies in the room and slows them and their projectiles down.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Spider_Butt",
+    "Image": "../assets/images/items/171.png"
+  },
+  {
+    "Name": "Sacrificial Dagger",
+    "Category": "I",
+    "ID": "172",
+    "Subname": "My fate protects me",
+    "Description": "Dagger orbits Isaac, dealing very high damage.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Sacrificial_Dagger",
+    "Image": "../assets/images/items/172.png"
+  },
+  {
+    "Name": "Mitre",
+    "Category": "I",
+    "ID": "173",
+    "Subname": "You Feel Blessed",
+    "Description": "Grants a chance of converting any red hearts pickups into soul hearts instead.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mitre",
+    "Image": "../assets/images/items/173.png"
+  },
+  {
+    "Name": "Rainbow Baby",
+    "Category": "I",
+    "ID": "174",
+    "Subname": "Random buddy",
+    "Description": "Spawns a familiar that follows Isaac around and fires tears with random effects.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Rainbow_Baby",
+    "Image": "../assets/images/items/174.png"
+  },
+  {
+    "Name": "Dad's Key",
+    "Category": "I",
+    "ID": "175",
+    "Subname": "Opens all doors...",
+    "Description": "Opens all doors in the current room when activated, including doors which require a key to open and entrances to secret rooms. Opens the big doors in the first room of both The Chest and the Dark Room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Dad%27s_Key",
+    "Image": "../assets/images/items/175.png"
+  },
+  {
+    "Name": "Stem Cells",
+    "Category": "I",
+    "ID": "176",
+    "Subname": "HP up",
+    "Description": "Adds one filled heart container and increases Shot Speed.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Stem_Cells",
+    "Image": "../assets/images/items/176.png"
+  },
+  {
+    "Name": "Portable Slot",
+    "Category": "I",
+    "ID": "177",
+    "Subname": "Gamble 24/7",
+    "Description": "Upon activation, 1 coin will be consumed, and a random pickup may drop, similar to the slot machine.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Portable_Slot",
+    "Image": "../assets/images/items/177.png"
+  },
+  {
+    "Name": "Holy Water",
+    "Category": "I",
+    "ID": "178",
+    "Subname": "Splash!",
+    "Description": "When Isaac receives damage, the bottle breaks and a puddle of blue creep forms, which damages non-flying enemies, similar to Lemon Mishap. The bottle is reformed upon entering a different room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Holy_Water",
+    "Image": "../assets/images/items/178.png"
+  },
+  {
+    "Name": "Fate",
+    "Category": "I",
+    "ID": "179",
+    "Subname": "Flight eternal",
+    "Description": "Grants flight and one eternal heart.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Fate",
+    "Image": "../assets/images/items/179.png"
+  },
+  {
+    "Name": "The Black Bean",
+    "Category": "I",
+    "ID": "180",
+    "Subname": "Toot on touch",
+    "Description": "When taking damage, Isaac farts, causing poison damage to all enemies in range.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Black_Bean",
+    "Image": "../assets/images/items/180.png"
+  },
+  {
+    "Name": "White Pony",
+    "Category": "I",
+    "ID": "181",
+    "Subname": "Flight + holy death",
+    "Description": "Passively grants flight and increased speed. Upon use, Isaac charges in the direction the pony is facing, becoming invulnerable during the charge and damaging enemies while also casting the effect of Crack the Sky.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/White_Pony",
+    "Image": "../assets/images/items/181.png"
+  },
+  {
+    "Name": "Sacred Heart",
+    "Category": "I",
+    "ID": "182",
+    "Subname": "Homing shots + DMG up",
+    "Description": "Increases damage and range while reducing shot speed and grants homing tears. Grants a Heart Container and replenishes all Red Hearts.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Sacred_Heart",
+    "Image": "../assets/images/items/182.png"
+  },
+  {
+    "Name": "Toothpicks",
+    "Category": "I",
+    "ID": "183",
+    "Subname": "Tears + shot speed up",
+    "Description": "+0.7 tears, +16% shot speed.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Toothpicks",
+    "Image": "../assets/images/items/183.png"
+  },
+  {
+    "Name": "Holy Grail",
+    "Category": "I",
+    "ID": "184",
+    "Subname": "Flight + HP up",
+    "Description": "Grants flight and one heart container.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Holy_Grail",
+    "Image": "../assets/images/items/184.png"
+  },
+  {
+    "Name": "Dead Dove",
+    "Category": "I",
+    "ID": "185",
+    "Subname": "Flight + spectral tears",
+    "Description": "Grants spectral tears and flight.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Dead_Dove",
+    "Image": "../assets/images/items/185.png"
+  },
+  {
+    "Name": "Blood Rights",
+    "Category": "I",
+    "ID": "186",
+    "Subname": "Mass enemy damage at a cost",
+    "Description": "Damages all enemies in the room, but deals a heart of damage to Isaac with each use.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Blood_Rights",
+    "Image": "../assets/images/items/186.png"
+  },
+  {
+    "Name": "Guppy's Hair Ball",
+    "Category": "I",
+    "ID": "187",
+    "Subname": "Swing it",
+    "Description": "Loosely follows behind Isaac. Can be swung like a flail by rapidly spinning Isaac in a circle. Grows bigger by killing enemies.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Guppy%27s_Hair_Ball",
+    "Image": "../assets/images/items/187.png"
+  },
+  {
+    "Name": "Abel",
+    "Category": "I",
+    "ID": "188",
+    "Subname": "Mirrored buddy",
+    "Description": "A familiar that mirrors the player's movements and shoots in the opposite direction.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Abel",
+    "Image": "../assets/images/items/188.png"
+  },
+  {
+    "Name": "SMB Super Fan",
+    "Category": "I",
+    "ID": "189",
+    "Subname": "All stats up",
+    "Description": "Increases all stats.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/SMB_Super_Fan",
+    "Image": "../assets/images/items/189.png"
+  },
+  {
+    "Name": "Pyro",
+    "Category": "I",
+    "ID": "190",
+    "Subname": "99 bombs",
+    "Description": "Adds 99 bombs.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Pyro",
+    "Image": "../assets/images/items/190.png"
+  },
+  {
+    "Name": "3 Dollar Bill",
+    "Category": "I",
+    "ID": "191",
+    "Subname": "Rainbow tears",
+    "Description": "Gives Isaac a random tear effect every room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/3_Dollar_Bill",
+    "Image": "../assets/images/items/191.png"
+  },
+  {
+    "Name": "Telepathy for Dummies",
+    "Category": "I",
+    "ID": "192",
+    "Subname": "Temporary psychic shot",
+    "Description": "Upon activation, grants homing tears for the current room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Telepathy_for_Dummies",
+    "Image": "../assets/images/items/192.png"
+  },
+  {
+    "Name": "MEAT!",
+    "Category": "I",
+    "ID": "193",
+    "Subname": "DMG + HP up",
+    "Description": "Adds a heart container and increases damage.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/MEAT!",
+    "Image": "../assets/images/items/193.png"
+  },
+  {
+    "Name": "Magic 8 Ball",
+    "Category": "I",
+    "ID": "194",
+    "Subname": "Shot speed up",
+    "Description": "Increases Shot Speed, and drops a tarot card when picked up.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Magic_8_Ball",
+    "Image": "../assets/images/items/194.png"
+  },
+  {
+    "Name": "Mom's Coin Purse",
+    "Category": "I",
+    "ID": "195",
+    "Subname": "What's all this...?",
+    "Description": "Spawns 4 random pills around Isaac.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mom%27s_Coin_Purse",
+    "Image": "../assets/images/items/195.png"
+  },
+  {
+    "Name": "Squeezy",
+    "Category": "I",
+    "ID": "196",
+    "Subname": "Tears up",
+    "Description": "Increases tears by 0.4, and spawns 2 Soul Hearts pickups.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Squeezy",
+    "Image": "../assets/images/items/196.png"
+  },
+  {
+    "Name": "Jesus Juice",
+    "Category": "I",
+    "ID": "197",
+    "Subname": "Damage + range up",
+    "Description": "Increases Damage and Range.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Jesus_Juice",
+    "Image": "../assets/images/items/197.png"
+  },
+  {
+    "Name": "Box",
+    "Category": "I",
+    "ID": "198",
+    "Subname": "Stuff",
+    "Description": "Spawns 1 of each (non-collectible) item: 1 coin, 1 key, 1 bomb, 1 heart, 1 card, 1 pill, 1 trinket.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Box",
+    "Image": "../assets/images/items/198.png"
+  },
+  {
+    "Name": "Mom's Key",
+    "Category": "I",
+    "ID": "199",
+    "Subname": "Less is now more +2 keys",
+    "Description": "Spawns 2 keys. Generates additional pickups from chests.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mom%27s_Key",
+    "Image": "../assets/images/items/199.png"
+  },
+  {
+    "Name": "Mom's Eyeshadow",
+    "Category": "I",
+    "ID": "200",
+    "Subname": "Charm tears",
+    "Description": "Tears have a chance to charm enemies.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mom%27s_Eyeshadow",
+    "Image": "../assets/images/items/200.png"
+  },
+  {
+    "Name": "Iron Bar",
+    "Category": "I",
+    "ID": "201",
+    "Subname": "Concussive tears",
+    "Description": "Increases damage by 0.3 and adds a chance to shoot concussive tears, causing enemies to walk around randomly.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Iron_Bar",
+    "Image": "../assets/images/items/201.png"
+  },
+  {
+    "Name": "Midas' Touch",
+    "Category": "I",
+    "ID": "202",
+    "Subname": "Golden touch",
+    "Description": "Enemies that touch you are stunned and turn gold. Any enemy killed while in this state will drop a coin.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Midas%27_Touch",
+    "Image": "../assets/images/items/202.png"
+  },
+  {
+    "Name": "Humbling Bundle",
+    "Category": "I",
+    "ID": "203",
+    "Subname": "1+1 free 4evar!",
+    "Description": "Gives one extra pickup (1+1 Free version) of Red Hearts, pennies, bombs, and keys. Does not work with blue, black, and half red hearts, nickels, and dimes.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Humbling_Bundle",
+    "Image": "../assets/images/items/203.png"
+  },
+  {
+    "Name": "Fanny Pack",
+    "Category": "I",
+    "ID": "204",
+    "Subname": "It's filled with goodies!",
+    "Description": "Has a chance to drop a random pickup when Isaac takes damage.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Fanny_Pack",
+    "Image": "../assets/images/items/204.png"
+  },
+  {
+    "Name": "Sharp Plug",
+    "Category": "I",
+    "ID": "205",
+    "Subname": "Charge with blood",
+    "Description": "Using an activated item while it's not charged will charge it and Sharp Plug does 2 full heart damage to Isaac.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Sharp_Plug",
+    "Image": "../assets/images/items/205.png"
+  },
+  {
+    "Name": "Guillotine",
+    "Category": "I",
+    "ID": "206",
+    "Subname": "An out-of-body experience",
+    "Description": "Isaac's head is removed from his body and floats around him. Increases Damage by 1 and grants -1 Tear Delay.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Guillotine",
+    "Image": "../assets/images/items/206.png"
+  },
+  {
+    "Name": "Ball of Bandages",
+    "Category": "I",
+    "ID": "207",
+    "Subname": "Gotta lick 'em all!",
+    "Description": "Orbiting familiar that deals damage to enemies. If collected while already having one, makes the familiar evolve. Only drops from Horsemen. Similar to Cube of Meat.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Ball_of_Bandages",
+    "Image": "../assets/images/items/207.png"
+  },
+  {
+    "Name": "Champion Belt",
+    "Category": "I",
+    "ID": "208",
+    "Subname": "DMG + Challenge Up",
+    "Description": "Increases damage, but also increases the chance of champion enemies appearing.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Champion_Belt",
+    "Image": "../assets/images/items/208.png"
+  },
+  {
+    "Name": "Butt Bombs",
+    "Category": "I",
+    "ID": "209",
+    "Subname": "Toxic blast +5 bombs",
+    "Description": "Gives +5 bombs and makes all bombs Butt Bombs that fill the room with gas, damaging and confusing all enemies.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Butt_Bombs",
+    "Image": "../assets/images/items/209.png"
+  },
+  {
+    "Name": "Gnawed Leaf",
+    "Category": "I",
+    "ID": "210",
+    "Subname": "Unbreakable",
+    "Description": "After standing still and not shooting for a short time, Isaac turns invincible until he moves or shoots.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Gnawed_Leaf",
+    "Image": "../assets/images/items/210.png"
+  },
+  {
+    "Name": "Spider Baby",
+    "Category": "I",
+    "ID": "211",
+    "Subname": "Spider revenge",
+    "Description": "When hit, spawns up to 2 blue spiders.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Spider_Baby",
+    "Image": "../assets/images/items/211.png"
+  },
+  {
+    "Name": "Guppy's Collar",
+    "Category": "I",
+    "ID": "212",
+    "Subname": "Eternal Life?",
+    "Description": "Grants Isaac a permanent 50% chance to respawn with 1/2 of a red heart after death.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Guppy%27s_Collar",
+    "Image": "../assets/images/items/212.png"
+  },
+  {
+    "Name": "Lost Contact",
+    "Category": "I",
+    "ID": "213",
+    "Subname": "Shielded tears",
+    "Description": "Every tear has a small shield which will allow it to block one enemy projectile.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Lost_Contact",
+    "Image": "../assets/images/items/213.png"
+  },
+  {
+    "Name": "Anemic",
+    "Category": "I",
+    "ID": "214",
+    "Subname": "Toxic blood",
+    "Description": "+5 range. After Isaac is damaged, a trail of red creep will be left behind Isaac until he leaves the current room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Anemic",
+    "Image": "../assets/images/items/214.png"
+  },
+  {
+    "Name": "Goat Head",
+    "Category": "I",
+    "ID": "215",
+    "Subname": "He accepts your offering",
+    "Description": "A Devil Room / Angel Room Door will always spawn after every boss fight, excluding the first floor and floors after Utero II/Womb II.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Goat_Head",
+    "Image": "../assets/images/items/215.png"
+  },
+  {
+    "Name": "Ceremonial Robes",
+    "Category": "I",
+    "ID": "216",
+    "Subname": "Sin up",
+    "Description": "Adds 3 black hearts and increases Damage by 1.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Ceremonial_Robes",
+    "Image": "../assets/images/items/216.png"
+  },
+  {
+    "Name": "Mom's Wig",
+    "Category": "I",
+    "ID": "217",
+    "Subname": "You feel itchy...",
+    "Description": "Adds a chance to spawn blue spiders when firing tears. Restores 1 red heart.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mom%27s_Wig",
+    "Image": "../assets/images/items/217.png"
+  },
+  {
+    "Name": "Placenta",
+    "Category": "I",
+    "ID": "218",
+    "Subname": "HP up + regen",
+    "Description": "Grants a full heart container, and a chance to regenerate a half-heart of health every minute of gameplay.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Placenta",
+    "Image": "../assets/images/items/218.png"
+  },
+  {
+    "Name": "Old Bandage",
+    "Category": "I",
+    "ID": "219",
+    "Subname": "HP up",
+    "Description": "Adds one empty heart container. Whenever Isaac takes damage there's a chance that a Red Heart may drop.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Old_Bandage",
+    "Image": "../assets/images/items/219.png"
+  },
+  {
+    "Name": "Sad Bombs",
+    "Category": "I",
+    "ID": "220",
+    "Subname": "Tear blast +5 bombs",
+    "Description": "+5 Bombs. Upon exploding, bombs shoot 8 tears off in every direction, similar to Tammy's Head. The tears are affected by any tear modifiers Isaac has on his own tears.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Sad_Bombs",
+    "Image": "../assets/images/items/220.png"
+  },
+  {
+    "Name": "Rubber Cement",
+    "Category": "I",
+    "ID": "221",
+    "Subname": "Bouncing tears",
+    "Description": "Tears bounce off walls, enemies, and environmental objects.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Rubber_Cement",
+    "Image": "../assets/images/items/221.png"
+  },
+  {
+    "Name": "Anti-Gravity",
+    "Category": "I",
+    "ID": "222",
+    "Subname": "Antigravity tears + tears up",
+    "Description": "-2 Tear Delay. Tears float in position until firing ceases, after which they will fly off in the direction they were shot in.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Anti-Gravity",
+    "Image": "../assets/images/items/222.png"
+  },
+  {
+    "Name": "Pyromaniac",
+    "Category": "I",
+    "ID": "223",
+    "Subname": "It hurts so good +5 Bombs",
+    "Description": "Isaac heals 1 heart instead of taking damage from an explosive source. Adds 5 bombs.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Pyromaniac",
+    "Image": "../assets/images/items/223.png"
+  },
+  {
+    "Name": "Cricket's Body",
+    "Category": "I",
+    "ID": "224",
+    "Subname": "Tears up + splash damage",
+    "Description": "Grants -1 Tear Delay and reduces Range. When tears hit an object or deplete their range, they spawn 4 smaller tears, whose Range and Damage scale with Isaac's.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Cricket%27s_Body",
+    "Image": "../assets/images/items/224.png"
+  },
+  {
+    "Name": "Gimpy",
+    "Category": "I",
+    "ID": "225",
+    "Subname": "Sweet Suffering",
+    "Description": "Has a chance of spawning a soul heart or black heart when taking damage. Enemies have a chance to drop a Half Red Heart after being killed.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Gimpy",
+    "Image": "../assets/images/items/225.png"
+  },
+  {
+    "Name": "Black Lotus",
+    "Category": "I",
+    "ID": "226",
+    "Subname": "HP up x3!",
+    "Description": "Grants the player one red heart container, one soul heart, and one black heart.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Black_Lotus",
+    "Image": "../assets/images/items/226.png"
+  },
+  {
+    "Name": "Piggy Bank",
+    "Category": "I",
+    "ID": "227",
+    "Subname": "My life savings",
+    "Description": "Gives 3 pennies on pick-up. Every time Isaac is damaged, he will drop one additional penny.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Piggy_Bank",
+    "Image": "../assets/images/items/227.png"
+  },
+  {
+    "Name": "Mom's Perfume",
+    "Category": "I",
+    "ID": "228",
+    "Subname": "Fear shot",
+    "Description": "Adds a chance to shoot fear tears and decreases tear delay by 1.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mom%27s_Perfume",
+    "Image": "../assets/images/items/228.png"
+  },
+  {
+    "Name": "Monstro's Lung",
+    "Category": "I",
+    "ID": "229",
+    "Subname": "Charged attack",
+    "Description": "Increases damage and grants a charged shot that fires multiple tears in the same fashion as Monstro.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Monstro%27s_Lung",
+    "Image": "../assets/images/items/229.png"
+  },
+  {
+    "Name": "Abaddon",
+    "Category": "I",
+    "ID": "230",
+    "Subname": "Evil + DMG up + fear shot",
+    "Description": "Increases damage and speed, removes all red heart containers, grants six black hearts, and adds a chance to shoot fear tears.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Abaddon",
+    "Image": "../assets/images/items/230.png"
+  },
+  {
+    "Name": "Ball of Tar",
+    "Category": "I",
+    "ID": "231",
+    "Subname": "Sticky feet...",
+    "Description": "Adds a chance to shoot slowing tears and the character leaves a trail of slowing creep behind as he moves, impeding enemies' speed.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Ball_of_Tar",
+    "Image": "../assets/images/items/231.png"
+  },
+  {
+    "Name": "Stop Watch",
+    "Category": "I",
+    "ID": "232",
+    "Subname": "Let's slow this down a bit",
+    "Description": "Automatically inflicts slow to all enemies in every room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Stop_Watch",
+    "Image": "../assets/images/items/232.png"
+  },
+  {
+    "Name": "Tiny Planet",
+    "Category": "I",
+    "ID": "233",
+    "Subname": "Orbiting tears + range up",
+    "Description": "Range up and makes shot tears revolve around Isaac until they drop.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Tiny_Planet",
+    "Image": "../assets/images/items/233.png"
+  },
+  {
+    "Name": "Infestation 2",
+    "Category": "I",
+    "ID": "234",
+    "Subname": "Infestation shot",
+    "Description": "Spawns allied blue spiders from killed enemies.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Infestation_2",
+    "Image": "../assets/images/items/234.png"
+  },
+  {
+    "Name": "E Coli",
+    "Category": "I",
+    "ID": "236",
+    "Subname": "Turdy touch",
+    "Description": "\"Gives \"\"Turdy Touch\"\" Effect. Enemies that touch Isaac are changed into poop.\"",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/E_Coli",
+    "Image": "../assets/images/items/236.png"
+  },
+  {
+    "Name": "Death's Touch",
+    "Category": "I",
+    "ID": "237",
+    "Subname": "Penetrative shot + damage up",
+    "Description": "Increases Damage by 1.5, reduces Tears by 0.3 and increases tear size. Grants piercing tears. Tears are replaced by Death's scythes, which is a cosmetic effect only.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Death%27s_Touch",
+    "Image": "../assets/images/items/237.png"
+  },
+  {
+    "Name": "Key Piece 1",
+    "Category": "I",
+    "ID": "238",
+    "Subname": "???",
+    "Description": "Combined with Key Piece 2, unlocks the golden gate in the starting room of The Chest and Dark Room to fight Mega Satan.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Key_Piece_1",
+    "Image": "../assets/images/items/238.png"
+  },
+  {
+    "Name": "Key Piece 2",
+    "Category": "I",
+    "ID": "239",
+    "Subname": "???",
+    "Description": "Combined with Key Piece 1, unlocks the golden gate in the starting room of The Chest and Dark Room to fight Mega Satan.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Key_Piece_2",
+    "Image": "../assets/images/items/239.png"
+  },
+  {
+    "Name": "Experimental Treatment",
+    "Category": "I",
+    "ID": "240",
+    "Subname": "All stats up, then shuffled",
+    "Description": "Randomly increases and decreases some of the character's stats.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Experimental_Treatment",
+    "Image": "../assets/images/items/240.png"
+  },
+  {
+    "Name": "Contract From Below",
+    "Category": "I",
+    "ID": "241",
+    "Subname": "Wealth... but at what cost?",
+    "Description": "Doubles the number of pickups and chests spawned after clearing a room or performing some other triggering action (such as using a blood donation machine), but reduces the chance for any pickups to spawn at all.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Contract_From_Below",
+    "Image": "../assets/images/items/241.png"
+  },
+  {
+    "Name": "Infamy",
+    "Category": "I",
+    "ID": "242",
+    "Subname": "Damage Reduction",
+    "Description": "Chance to block projectiles coming from any direction.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Infamy",
+    "Image": "../assets/images/items/242.png"
+  },
+  {
+    "Name": "Trinity Shield",
+    "Category": "I",
+    "ID": "243",
+    "Subname": "\"\"\"You feel guarded\"\"\"",
+    "Description": "Isaac gains a shield that protects him from enemy shots.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Trinity_Shield",
+    "Image": "../assets/images/items/243.png"
+  },
+  {
+    "Name": "Tech.5",
+    "Category": "I",
+    "ID": "244",
+    "Subname": "It's still being tested...",
+    "Description": "Grants a unlimited range piercing laser with random rate of fire that does not replace tears. The laser might occasionally fire with the effect of a random item or trinket, such as Hook Worm, Spoon Bender or Tiny Planet.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Tech.5",
+    "Image": "../assets/images/items/244.png"
+  },
+  {
+    "Name": "20/20",
+    "Category": "I",
+    "ID": "245",
+    "Subname": "Double shot",
+    "Description": "Grants double shot.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/20/20",
+    "Image": "../assets/images/items/245.png"
+  },
+  {
+    "Name": "Blue Map",
+    "Category": "I",
+    "ID": "246",
+    "Subname": "Secrets",
+    "Description": "Shows secret and super secret room locations on the map.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Blue_Map",
+    "Image": "../assets/images/items/246.png"
+  },
+  {
+    "Name": "BFFS!",
+    "Category": "I",
+    "ID": "247",
+    "Subname": "Your Friends Rule!",
+    "Description": "Increases the size and damage of familiars.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/BFFS!",
+    "Image": "../assets/images/items/247.png"
+  },
+  {
+    "Name": "Hive Mind",
+    "Category": "I",
+    "ID": "248",
+    "Subname": "Giant spiders and flies",
+    "Description": "Increases the size of blue spiders and blue flies and doubles the amount of damage they deal.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Hive_Mind",
+    "Image": "../assets/images/items/248.png"
+  },
+  {
+    "Name": "There's Options",
+    "Category": "I",
+    "ID": "249",
+    "Subname": "More options",
+    "Description": "There will be 2 items available to choose from after defeating a boss. Choosing 1 item causes the other to disappear.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/There%27s_Options",
+    "Image": "../assets/images/items/249.png"
+  },
+  {
+    "Name": "Bogo Bombs",
+    "Category": "I",
+    "ID": "250",
+    "Subname": "1+1 boom!",
+    "Description": "All standard bomb pickups become 1+1 bomb pickups.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Bogo_Bombs",
+    "Image": "../assets/images/items/250.png"
+  },
+  {
+    "Name": "Starter Deck",
+    "Category": "I",
+    "ID": "251",
+    "Subname": "Extra card room",
+    "Description": "Isaac can hold 2 cards at once and all pills are replaced by cards.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Starter_Deck",
+    "Image": "../assets/images/items/251.png"
+  },
+  {
+    "Name": "Little Baggy",
+    "Category": "I",
+    "ID": "252",
+    "Subname": "Extra pill room",
+    "Description": "Isaac can hold 2 pills at once and all cards are replaced by pills.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Little_Baggy",
+    "Image": "../assets/images/items/252.png"
+  },
+  {
+    "Name": "Magic Scab",
+    "Category": "I",
+    "ID": "253",
+    "Subname": "HP + Luck up",
+    "Description": "Increases luck and HP by 1.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Magic_Scab",
+    "Image": "../assets/images/items/253.png"
+  },
+  {
+    "Name": "Blood Clot",
+    "Category": "I",
+    "ID": "254",
+    "Subname": "DMG + range up",
+    "Description": "Increases damage by 1 and range by 5 for tears fired from the left eye.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Blood_Clot",
+    "Image": "../assets/images/items/254.png"
+  },
+  {
+    "Name": "Screw",
+    "Category": "I",
+    "ID": "255",
+    "Subname": "Tears and shot speed up.",
+    "Description": "+0.5 tears up, +0.2 shot speed up.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Screw",
+    "Image": "../assets/images/items/255.png"
+  },
+  {
+    "Name": "Hot Bombs",
+    "Category": "I",
+    "ID": "256",
+    "Subname": "Burning blast +5 bombs",
+    "Description": "Grants 5 bombs. Isaac's bombs leave behind fire that damages enemies upon contact.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Hot_Bombs",
+    "Image": "../assets/images/items/256.png"
+  },
+  {
+    "Name": "Fire Mind",
+    "Category": "I",
+    "ID": "257",
+    "Subname": "Flaming tears",
+    "Description": "Grants flaming tears that deal burning damage over time. Tears have a chance to explode on impact with an enemy, which creates a fire at the location of the explosion.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Fire_Mind",
+    "Image": "../assets/images/items/257.png"
+  },
+  {
+    "Name": "Missing No.",
+    "Category": "I",
+    "ID": "258",
+    "Subname": "Syntax error",
+    "Description": "Randomizes all passive items upon pickup and at the start of each succeeding floor.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Missing_No.",
+    "Image": "../assets/images/items/258.png"
+  },
+  {
+    "Name": "Dark Matter",
+    "Category": "I",
+    "ID": "259",
+    "Subname": "Fear shot",
+    "Description": "Increases Damage by 1 and adds a chance to shoot fear tears.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Dark_Matter",
+    "Image": "../assets/images/items/259.png"
+  },
+  {
+    "Name": "Black Candle",
+    "Category": "I",
+    "ID": "260",
+    "Subname": "Curse immunity + evil up",
+    "Description": "Prevents curses. Grants one black heart. Increases the chance for a Devil or angel room to appear.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Black_Candle",
+    "Image": "../assets/images/items/260.png"
+  },
+  {
+    "Name": "Proptosis",
+    "Category": "I",
+    "ID": "261",
+    "Subname": "Short range mega tears",
+    "Description": "Tears start out massive with high damage, and then shrink down and become weaker over a short range.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Proptosis",
+    "Image": "../assets/images/items/261.png"
+  },
+  {
+    "Name": "Missing Page 2",
+    "Category": "I",
+    "ID": "262",
+    "Subname": "Evil up. Your enemies will pay!",
+    "Description": "Gives 1 black heart. Upon taking damage that reduces Isaac's health to one heart or less, activates The Necronomicon effect, dealing 40 damage to all enemies in the room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Missing_Page_2",
+    "Image": "../assets/images/items/262.png"
+  },
+  {
+    "Name": "Smart Fly",
+    "Category": "I",
+    "ID": "264",
+    "Subname": "Revenge fly",
+    "Description": "After Isaac takes damage, this fly will deal continuous touch damage to whatever enemy caused the damage until it is dead. The fly will then systematically attack 1 enemy at a time until the room is cleared.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Smart_Fly",
+    "Image": "../assets/images/items/264.png"
+  },
+  {
+    "Name": "Dry Baby",
+    "Category": "I",
+    "ID": "265",
+    "Subname": "Immortal Friend",
+    "Description": "Spawns a familiar that follows Isaac around and blocks enemy projectiles. Upon blocking a shot, it has a chance of triggering The Necronomicon effect.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Dry_Baby",
+    "Image": "../assets/images/items/265.png"
+  },
+  {
+    "Name": "Juicy Sack",
+    "Category": "I",
+    "ID": "266",
+    "Subname": "Sticky babies",
+    "Description": "A familiar that follows behind Isaac. It drips a trail of creep, which slows enemies, and spawns 1-2 blue spiders after each room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Juicy_Sack",
+    "Image": "../assets/images/items/266.png"
+  },
+  {
+    "Name": "Robo-Baby 2.0",
+    "Category": "I",
+    "ID": "267",
+    "Subname": "We worked out all the kinks",
+    "Description": "Fires lasers at any enemy in its line of sight and moves based on the direction Isaac is firing tears.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Robo-Baby_2.0",
+    "Image": "../assets/images/items/267.png"
+  },
+  {
+    "Name": "Rotten Baby",
+    "Category": "I",
+    "ID": "268",
+    "Subname": "Infested friend",
+    "Description": "A familiar that spawns blue flies.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Rotten_Baby",
+    "Image": "../assets/images/items/268.png"
+  },
+  {
+    "Name": "Headless Baby",
+    "Category": "I",
+    "ID": "269",
+    "Subname": "Bloody Friend",
+    "Description": "Familiar that follows Isaac, leaving blood creep on the ground.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Headless_Baby",
+    "Image": "../assets/images/items/269.png"
+  },
+  {
+    "Name": "Leech",
+    "Category": "I",
+    "ID": "270",
+    "Subname": "Blood sucker",
+    "Description": "Spawns a friendly familiar leech on the ground that hunts down enemies and heals you for half a heart each time it eats one.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Leech",
+    "Image": "../assets/images/items/270.png"
+  },
+  {
+    "Name": "Mystery Sack",
+    "Category": "I",
+    "ID": "271",
+    "Subname": "?",
+    "Description": "Spawns a familiar that drops a heart, coin, bomb, or key every 5-6 rooms.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mystery_Sack",
+    "Image": "../assets/images/items/271.png"
+  },
+  {
+    "Name": "BBF",
+    "Category": "I",
+    "ID": "272",
+    "Subname": "Big Beautiful Fly",
+    "Description": "Spawns a familiar that flies around the room in a manner similar to the Boom Fly and explodes on contact with an enemy. Respawns after ten seconds.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/BBF",
+    "Image": "../assets/images/items/272.png"
+  },
+  {
+    "Name": "Bob's Brain",
+    "Category": "I",
+    "ID": "273",
+    "Subname": "Explosive thoughts",
+    "Description": "Spawns a familiar that charges forward when shooting tears and explodes upon contact with an enemy, damaging and poisoning them. The familiar respawns after a few seconds.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Bob%27s_Brain",
+    "Image": "../assets/images/items/273.png"
+  },
+  {
+    "Name": "Best Bud",
+    "Category": "I",
+    "ID": "274",
+    "Subname": "Sworn protector",
+    "Description": "When hit, summons a white attack fly similar to Distant Admiration for the current room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Best_Bud",
+    "Image": "../assets/images/items/274.png"
+  },
+  {
+    "Name": "Lil' Brimstone",
+    "Category": "I",
+    "ID": "275",
+    "Subname": "Evil Friend",
+    "Description": "A Familiar that shoots a thin Brimstone beam. Must charge like Brimstone before shooting.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Lil_Brimstone",
+    "Image": "../assets/images/items/275.png"
+  },
+  {
+    "Name": "Isaac's Heart",
+    "Category": "I",
+    "ID": "276",
+    "Subname": "Protect It",
+    "Description": "Isaac himself is now immune to all damage, and a heart familiar appears and follows Isaac. If the heart is hurt, Isaac is hurt.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Isaac%27s_Heart",
+    "Image": "../assets/images/items/276.png"
+  },
+  {
+    "Name": "Lil Haunt",
+    "Category": "I",
+    "ID": "277",
+    "Subname": "Fear him",
+    "Description": "A familiar that damages enemies by chasing them as well as inducing the fear effect.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Lil_Haunt",
+    "Image": "../assets/images/items/277.png"
+  },
+  {
+    "Name": "Dark Bum",
+    "Category": "I",
+    "ID": "278",
+    "Subname": "He wants to take your life",
+    "Description": "Spawns a familiar that follows Isaac around and collects red hearts. For every one-and-a-half red hearts collected, Dark Bum will generate one soul heart, one hostile Spider or one friendly blue spider.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Dark_Bum",
+    "Image": "../assets/images/items/278.png"
+  },
+  {
+    "Name": "Big Fan",
+    "Category": "I",
+    "ID": "279",
+    "Subname": "Fat protector",
+    "Description": "Spawns a large orbital familiar that blocks enemy projectiles and deals slight contact damage to enemies.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Big_Fan",
+    "Image": "../assets/images/items/279.png"
+  },
+  {
+    "Name": "Sissy Longlegs",
+    "Category": "I",
+    "ID": "280",
+    "Subname": "She loves you",
+    "Description": "Wanders about the room, occasionally spawning blue spiders.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Sissy_Longlegs",
+    "Image": "../assets/images/items/280.png"
+  },
+  {
+    "Name": "Punching Bag",
+    "Category": "I",
+    "ID": "281",
+    "Subname": "Scape Goat",
+    "Description": "Spawns a Mulligan Familiar that will wander the room randomly. Enemies will attack the Mulligan if it's closer.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Punching_Bag",
+    "Image": "../assets/images/items/281.png"
+  },
+  {
+    "Name": "How to Jump",
+    "Category": "I",
+    "ID": "282",
+    "Subname": "It's about time you learned how",
+    "Description": "Gives Isaac the ability to jump (over gaps, spikes, etc.).",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/How_to_Jump",
+    "Image": "../assets/images/items/282.png"
+  },
+  {
+    "Name": "D100",
+    "Category": "I",
+    "ID": "283",
+    "Subname": "REEROLLLLL!",
+    "Description": "Upon use, rerolls all passive items on Isaac like the D4, every pedestal item in the room like The D6, and every pickup like the D20.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/D100",
+    "Image": "../assets/images/items/283.png"
+  },
+  {
+    "Name": "D4",
+    "Category": "I",
+    "ID": "284",
+    "Subname": "Reroll into something else",
+    "Description": "Rerolls all of Isaac's items.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/D4",
+    "Image": "../assets/images/items/284.png"
+  },
+  {
+    "Name": "D10",
+    "Category": "I",
+    "ID": "285",
+    "Subname": "Rerolls enemies",
+    "Description": "Rerolls the enemies in a room. Only rerolls enemies that are still alive (does not spawn new enemies).",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/D10",
+    "Image": "../assets/images/items/285.png"
+  },
+  {
+    "Name": "Blank Card",
+    "Category": "I",
+    "ID": "286",
+    "Subname": "Card Mimic",
+    "Description": "Has the same effect as the card or rune currently held by Isaac.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Blank_Card",
+    "Image": "../assets/images/items/286.png"
+  },
+  {
+    "Name": "Book of Secrets",
+    "Category": "I",
+    "ID": "287",
+    "Subname": "??????",
+    "Description": "Upon use, gives the effect of Treasure Map, The Compass, or Blue Map for the duration of the current floor.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Book_of_Secrets",
+    "Image": "../assets/images/items/287.png"
+  },
+  {
+    "Name": "Box of Spiders",
+    "Category": "I",
+    "ID": "288",
+    "Subname": "It's a box of spiders",
+    "Description": "Summons 2-4 blue spiders.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Box_of_Spiders",
+    "Image": "../assets/images/items/288.png"
+  },
+  {
+    "Name": "Red Candle",
+    "Category": "I",
+    "ID": "289",
+    "Subname": "Flame on",
+    "Description": "Throws a persistent flame that deals high damage and diminishes as it damages enemies or blocks shots.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Red_Candle",
+    "Image": "../assets/images/items/289.png"
+  },
+  {
+    "Name": "The Jar",
+    "Category": "I",
+    "ID": "290",
+    "Subname": "Save your life",
+    "Description": "When at full health, up to 4 extra hearts can be stored in the jar.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Jar",
+    "Image": "../assets/images/items/290.png"
+  },
+  {
+    "Name": "Flush!",
+    "Category": "I",
+    "ID": "291",
+    "Subname": "...",
+    "Description": "Changes all enemies in the room into poop. Does not work on all enemies (Knights and bosses are immune). Instantly kills Dingle, Dangle, and Brownie.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Flush!",
+    "Image": "../assets/images/items/291.png"
+  },
+  {
+    "Name": "Satanic Bible",
+    "Category": "I",
+    "ID": "292",
+    "Subname": "Reusable Evil",
+    "Description": "Upon activation, Isaac gains a black heart.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Satanic_Bible",
+    "Image": "../assets/images/items/292.png"
+  },
+  {
+    "Name": "Head of Krampus",
+    "Category": "I",
+    "ID": "293",
+    "Subname": "Krampus Rage",
+    "Description": "Fires a cross-patterned brimstone shot, just like The Fallen and Krampus shoot.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Head_of_Krampus",
+    "Image": "../assets/images/items/293.png"
+  },
+  {
+    "Name": "Butter Bean",
+    "Category": "I",
+    "ID": "294",
+    "Subname": "Reusable knock-back",
+    "Description": "Isaac farts and pushes back nearby enemies.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Butter_Bean",
+    "Image": "../assets/images/items/294.png"
+  },
+  {
+    "Name": "Magic Fingers",
+    "Category": "I",
+    "ID": "295",
+    "Subname": "Pay to play",
+    "Description": "For 1 coin, damages all enemies in the room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Magic_Fingers",
+    "Image": "../assets/images/items/295.png"
+  },
+  {
+    "Name": "Converter",
+    "Category": "I",
+    "ID": "296",
+    "Subname": "Convert your soul",
+    "Description": "When used, converts two soul hearts into a heart container.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Converter",
+    "Image": "../assets/images/items/296.png"
+  },
+  {
+    "Name": "Pandora's Box",
+    "Category": "I",
+    "ID": "297",
+    "Subname": "??",
+    "Description": "Upon use, spawns certain pickups or items depending on the floor it is used on. Single-use.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Pandora%27s_Box",
+    "Image": "../assets/images/items/297.png"
+  },
+  {
+    "Name": "Unicorn Stump",
+    "Category": "I",
+    "ID": "298",
+    "Subname": "You feel stumped",
+    "Description": "Upon use, grants invulnerability and increased speed for five seconds, but removes the ability to shoot tears.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Unicorn_Stump",
+    "Image": "../assets/images/items/298.png"
+  },
+  {
+    "Name": "Taurus",
+    "Category": "I",
+    "ID": "299",
+    "Subname": "Speed down + rage is building",
+    "Description": "Speed down gains speed while in a room with enemies until gaining My Little Unicorn effect for a few seconds.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Taurus",
+    "Image": "../assets/images/items/299.png"
+  },
+  {
+    "Name": "Aries",
+    "Category": "I",
+    "ID": "300",
+    "Subname": "Ramming speed",
+    "Description": "+0.25 Speed. Running into enemies while at a high speed will deal 18 points of damage. Does not prevent contact damage.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Aries",
+    "Image": "../assets/images/items/300.png"
+  },
+  {
+    "Name": "Cancer",
+    "Category": "I",
+    "ID": "301",
+    "Subname": "HP up + you feel protected",
+    "Description": "Adds 3 soul hearts. Grants The Wafer effect for the current room upon taking damage.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Cancer",
+    "Image": "../assets/images/items/301.png"
+  },
+  {
+    "Name": "Leo",
+    "Category": "I",
+    "ID": "302",
+    "Subname": "Stompy",
+    "Description": "Allows you to crush rocks when you walk over them.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Leo",
+    "Image": "../assets/images/items/302.png"
+  },
+  {
+    "Name": "Virgo",
+    "Category": "I",
+    "ID": "303",
+    "Subname": "You feel refreshed and protected",
+    "Description": "\"Grants a chance to trigger the Book of Shadows effect upon taking damage, creating a shield that nullifies all types of damage for 10 seconds. Also converts \"\"bad pills\"\" into \"\"good pills\"\".\"",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Virgo",
+    "Image": "../assets/images/items/303.png"
+  },
+  {
+    "Name": "Libra",
+    "Category": "I",
+    "ID": "304",
+    "Subname": "You Feel Balanced",
+    "Description": "Gives 6 coins, 6 bombs, and 6 keys and balances out all attributes.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Libra",
+    "Image": "../assets/images/items/304.png"
+  },
+  {
+    "Name": "Scorpio",
+    "Category": "I",
+    "ID": "305",
+    "Subname": "Poison tears",
+    "Description": "Grants poison tears, which deal damage over time when inflicted.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Scorpio",
+    "Image": "../assets/images/items/305.png"
+  },
+  {
+    "Name": "Sagittarius",
+    "Category": "I",
+    "ID": "306",
+    "Subname": "Penetrative shot + speed up",
+    "Description": "Increases speed by +0.2 and grants piercing tears.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Sagittarius",
+    "Image": "../assets/images/items/306.png"
+  },
+  {
+    "Name": "Capricorn",
+    "Category": "I",
+    "ID": "307",
+    "Subname": "All stats up",
+    "Description": "All stats up.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Capricorn",
+    "Image": "../assets/images/items/307.png"
+  },
+  {
+    "Name": "Aquarius",
+    "Category": "I",
+    "ID": "308",
+    "Subname": "Trail of tears",
+    "Description": "A trail of blue creep is left behind Isaac, which damages enemies.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Aquarius",
+    "Image": "../assets/images/items/308.png"
+  },
+  {
+    "Name": "Pisces",
+    "Category": "I",
+    "ID": "309",
+    "Subname": "Tears up + knock-back shots",
+    "Description": "-1 Tear Delay, adds knock-back shots and increases tear size.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Pisces",
+    "Image": "../assets/images/items/309.png"
+  },
+  {
+    "Name": "Eve's Mascara",
+    "Category": "I",
+    "ID": "310",
+    "Subname": "Shot speed down + DMG up",
+    "Description": "Doubles damage, halves tears stat, and greatly reduces shot speed.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Eve%27s_Mascara",
+    "Image": "../assets/images/items/310.png"
+  },
+  {
+    "Name": "Judas' Shadow",
+    "Category": "I",
+    "ID": "311",
+    "Subname": "Sweet revenge",
+    "Description": "Adds an extra life upon death, it respawns Isaac as Black Judas with only two black hearts.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Judas%27_Shadow",
+    "Image": "../assets/images/items/311.png"
+  },
+  {
+    "Name": "Maggy's Bow",
+    "Category": "I",
+    "ID": "312",
+    "Subname": "HP up + you feel healthy",
+    "Description": "Gives one heart container and doubles the healing provided by red hearts.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Maggy%27s_Bow",
+    "Image": "../assets/images/items/312.png"
+  },
+  {
+    "Name": "Holy Mantle",
+    "Category": "I",
+    "ID": "313",
+    "Subname": "Holy shield",
+    "Description": "Automatically negates first taken damage in every room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Holy_Mantle",
+    "Image": "../assets/images/items/313.png"
+  },
+  {
+    "Name": "Thunder Thighs",
+    "Category": "I",
+    "ID": "314",
+    "Subname": "HP up + speed down + you feel stompy",
+    "Description": "Destroys rocks upon contact with Isaac. Adds one heart container and lowers Speed.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Thunder_Thighs",
+    "Image": "../assets/images/items/314.png"
+  },
+  {
+    "Name": "Strange Attractor",
+    "Category": "I",
+    "ID": "315",
+    "Subname": "Magnetic tears",
+    "Description": "Pickups, trinkets, and monsters are magnetically attracted to Isaac's tears.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Strange_Attractor",
+    "Image": "../assets/images/items/315.png"
+  },
+  {
+    "Name": "Cursed Eye",
+    "Category": "I",
+    "ID": "316",
+    "Subname": "Cursed charge shot",
+    "Description": "Grants charged tears that can be fired in a tight burst of four. Getting hit while charging will teleport Isaac into another room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Cursed_Eye",
+    "Image": "../assets/images/items/316.png"
+  },
+  {
+    "Name": "Mysterious Liquid",
+    "Category": "I",
+    "ID": "317",
+    "Subname": "Toxic Splash Damage",
+    "Description": "Tears leave a small, short lasting pool of creep on impact or when their range is depleted.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mysterious_Liquid",
+    "Image": "../assets/images/items/317.png"
+  },
+  {
+    "Name": "Gemini",
+    "Category": "I",
+    "ID": "318",
+    "Subname": "Conjoined friend",
+    "Description": "Suture becomes attached to Isaac, and does touch damage to enemies within its attacking range.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Gemini_(Item)",
+    "Image": "../assets/images/items/318.png"
+  },
+  {
+    "Name": "Cain's Other Eye",
+    "Category": "I",
+    "ID": "319",
+    "Subname": "Near sighted friend",
+    "Description": "Spawns a familiar that floats slowly around the room on a zig-zag pattern similar to The Peeper and shoots normal tears in the same direction as Isaac.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Cain%27s_Other_Eye",
+    "Image": "../assets/images/items/319.png"
+  },
+  {
+    "Name": "???'s Only Friend",
+    "Category": "I",
+    "ID": "320",
+    "Subname": "Controlled friend",
+    "Description": "Summons a big attack fly that can be controlled with the shooting direction-keys.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/%3F%3F%3F%27s_Only_Friend",
+    "Image": "../assets/images/items/320.png"
+  },
+  {
+    "Name": "Samson's Chains",
+    "Category": "I",
+    "ID": "321",
+    "Subname": "The ol' ball and chain",
+    "Description": "Pull a chain and ball behind you that will damage enemies on contact and is able to break stones.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Samson%27s_Chains",
+    "Image": "../assets/images/items/321.png"
+  },
+  {
+    "Name": "Mongo Baby",
+    "Category": "I",
+    "ID": "322",
+    "Subname": "Mongo Friend",
+    "Description": "Summons a familiar that copies the tears of Isaac's other familiars.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mongo_Baby",
+    "Image": "../assets/images/items/322.png"
+  },
+  {
+    "Name": "Isaac's Tears",
+    "Category": "I",
+    "ID": "323",
+    "Subname": "Collected tears",
+    "Description": "Shoots 8 tears around Isaac, which retain the damage, shot speed, and special effects of his tears. Each tear shot by Isaac increases item charge by one.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Isaac%27s_Tears",
+    "Image": "../assets/images/items/323.png"
+  },
+  {
+    "Name": "Undefined",
+    "Category": "I",
+    "ID": "324",
+    "Subname": "Undefined",
+    "Description": "Teleports Isaac to either the Secret Room, Super Secret Room, Treasure Room, or I AM ERROR.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Undefined",
+    "Image": "../assets/images/items/324.png"
+  },
+  {
+    "Name": "Scissors",
+    "Category": "I",
+    "ID": "325",
+    "Subname": "Lose your head",
+    "Description": "Upon use, turns Isaac's head into a stationary familiar for the current room which fires normal tears that deal 3.5 damage.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Scissors",
+    "Image": "../assets/images/items/325.png"
+  },
+  {
+    "Name": "Breath of Life",
+    "Category": "I",
+    "ID": "326",
+    "Subname": "Invincibility at a cost",
+    "Description": "Grants a brief moment of invincibility when the charge bar hits zero. If the spacebar is held for an additional second after hitting zero, Isaac will take damage.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Breath_of_Life",
+    "Image": "../assets/images/items/326.png"
+  },
+  {
+    "Name": "The Polaroid",
+    "Category": "I",
+    "ID": "327",
+    "Subname": "Fate Chosen",
+    "Description": "If the character has half a red heart or no red hearts after taking damage, it triggers the Book of Shadows effect, creating a shield that nullifies all types of damage for 5 seconds. Also allows entrance into The Chest.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Polaroid",
+    "Image": "../assets/images/items/327.png"
+  },
+  {
+    "Name": "The Negative",
+    "Category": "I",
+    "ID": "328",
+    "Subname": "Fate Chosen",
+    "Description": "If the character has half a red heart or no red hearts after taking damage, it triggers The Necronomicon effect, damaging all enemies in the room. Also allows entrance into the Dark Room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Negative",
+    "Image": "../assets/images/items/328.png"
+  },
+  {
+    "Name": "The Ludovico Technique",
+    "Category": "I",
+    "ID": "329",
+    "Subname": "Controlled Tears",
+    "Description": "Instead of firing tears, Isaac controls one floating tear that hover over obstacles. This tear deals constant damage when held in place over an enemy.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Ludovico_Technique",
+    "Image": "../assets/images/items/329.png"
+  },
+  {
+    "Name": "Soy Milk",
+    "Category": "I",
+    "ID": "330",
+    "Subname": "DMG Down + Tears Way Up",
+    "Description": "Tears shrink and do much less damage, but fire in very rapid succession.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Soy_Milk",
+    "Image": "../assets/images/items/330.png"
+  },
+  {
+    "Name": "Godhead",
+    "Category": "I",
+    "ID": "331",
+    "Subname": "God tears",
+    "Description": "Increases damage and range while reducing tears and shot speed. Grants homing tears and tears gain a damaging halo.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Godhead",
+    "Image": "../assets/images/items/331.png"
+  },
+  {
+    "Name": "Lazarus' Rags",
+    "Category": "I",
+    "ID": "332",
+    "Subname": "Eternal Life?",
+    "Description": "Upon dying, resurrect as Revived Lazarus with one heart container and Anemic item.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Lazarus%27_Rags",
+    "Image": "../assets/images/items/332.png"
+  },
+  {
+    "Name": "The Mind",
+    "Category": "I",
+    "ID": "333",
+    "Subname": "I know all",
+    "Description": "Grants the combined effects of the Blue Map, Treasure Map, and The Compass, revealing the floor layout and all special rooms, including Secret Rooms and Super Secret Rooms.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Mind",
+    "Image": "../assets/images/items/333.png"
+  },
+  {
+    "Name": "The Body",
+    "Category": "I",
+    "ID": "334",
+    "Subname": "I feel all",
+    "Description": "Adds 3 heart containers.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Body",
+    "Image": "../assets/images/items/334.png"
+  },
+  {
+    "Name": "The Soul",
+    "Category": "I",
+    "ID": "335",
+    "Subname": "I am all",
+    "Description": "Grants two soul hearts. Isaac now repels enemy projectiles.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Soul",
+    "Image": "../assets/images/items/335.png"
+  },
+  {
+    "Name": "Dead Onion",
+    "Category": "I",
+    "ID": "336",
+    "Subname": "Toxic aura tears",
+    "Description": "Grants piercing and spectral tears. Increases tear size (without increasing damage) while greatly reducing range and shot speed.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Dead_Onion",
+    "Image": "../assets/images/items/336.png"
+  },
+  {
+    "Name": "Broken Watch",
+    "Category": "I",
+    "ID": "337",
+    "Subname": "I think it's broken",
+    "Description": "Chance upon entering a room to slow down or speed up every enemy and their attacks. The chance to slow enemies is quite higher than the chance to speed them up.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Broken_Watch",
+    "Image": "../assets/images/items/337.png"
+  },
+  {
+    "Name": "The Boomerang",
+    "Category": "I",
+    "ID": "338",
+    "Subname": "It will never leave you",
+    "Description": "Throws a short-range boomerang which does a bit of damage and has a high chance to stun the enemy for 2 seconds. Can also be used to grab pickups.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Boomerang",
+    "Image": "../assets/images/items/338.png"
+  },
+  {
+    "Name": "Safety Pin",
+    "Category": "I",
+    "ID": "339",
+    "Subname": "Evil + range + shot speed up",
+    "Description": "Increases range and shot speed, while adding 1 Black Heart.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Safety_Pin",
+    "Image": "../assets/images/items/339.png"
+  },
+  {
+    "Name": "Caffeine Pill",
+    "Category": "I",
+    "ID": "340",
+    "Subname": "Speed up + size down",
+    "Description": "Increases speed and reduces character size. Also gives a random pill.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Caffeine_Pill",
+    "Image": "../assets/images/items/340.png"
+  },
+  {
+    "Name": "Torn Photo",
+    "Category": "I",
+    "ID": "341",
+    "Subname": "Tears + shot speed up",
+    "Description": "Tears + Shot speed up.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Torn_Photo",
+    "Image": "../assets/images/items/341.png"
+  },
+  {
+    "Name": "Blue Cap",
+    "Category": "I",
+    "ID": "342",
+    "Subname": "HP + tears up + shot speed down",
+    "Description": "Grants 1 heart container and increases tears, but decreases shot speed.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Blue_Cap",
+    "Image": "../assets/images/items/342.png"
+  },
+  {
+    "Name": "Latch Key",
+    "Category": "I",
+    "ID": "343",
+    "Subname": "Luck up",
+    "Description": "Increases Luck by 1, grants 1 Soul Heart and spawns 2 Keys.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Latch_Key",
+    "Image": "../assets/images/items/343.png"
+  },
+  {
+    "Name": "Match Book",
+    "Category": "I",
+    "ID": "344",
+    "Subname": "Evil up",
+    "Description": "Grants Isaac 1 Black Heart and 3 bombs. Can also give troll bombs.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Match_Book",
+    "Image": "../assets/images/items/344.png"
+  },
+  {
+    "Name": "Synthoil",
+    "Category": "I",
+    "ID": "345",
+    "Subname": "DMG up + range",
+    "Description": "Increases damage by 1, range by 5.25, and tear height by 0.5.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Synthoil",
+    "Image": "../assets/images/items/345.png"
+  },
+  {
+    "Name": "A Snack",
+    "Category": "I",
+    "ID": "346",
+    "Subname": "HP up",
+    "Description": "Grants one full red heart container.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/A_Snack",
+    "Image": "../assets/images/items/346.png"
+  },
+  {
+    "Name": "Diplopia",
+    "Category": "I",
+    "ID": "347",
+    "Subname": "Double item vision",
+    "Description": "Duplicates all pickups and item pedestals in the room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Diplopia",
+    "Image": "../assets/images/items/347.png"
+  },
+  {
+    "Name": "Placebo",
+    "Category": "I",
+    "ID": "348",
+    "Subname": "Pill mimic",
+    "Description": "When used, copies the effect of the pill Isaac is currently holding without consuming it. Does not copy the effects of cards or runes.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Placebo",
+    "Image": "../assets/images/items/348.png"
+  },
+  {
+    "Name": "Wooden Nickel",
+    "Category": "I",
+    "ID": "349",
+    "Subname": "Flip a coin",
+    "Description": "When used, has a 50% chance to drop one random type of coin (penny, nickel, or dime).",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Wooden_Nickel",
+    "Image": "../assets/images/items/349.png"
+  },
+  {
+    "Name": "Toxic Shock",
+    "Category": "I",
+    "ID": "350",
+    "Subname": "Mass poison",
+    "Description": "Upon entering a room, poisons all enemies, dealing double Isaac's tear damage. Killing enemies leaves a small, short lasting pool of green creep on the ground.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Toxic_Shock",
+    "Image": "../assets/images/items/350.png"
+  },
+  {
+    "Name": "Mega Bean",
+    "Category": "I",
+    "ID": "351",
+    "Subname": "Giga fart!",
+    "Description": "When used, the Mega Bean will freeze all enemies in the current room for a couple of seconds, deal 5 damage and poison any enemies near Isaac, and send a wave of spikes that deals 10 damage across the room in the direction Isaac is facing.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mega_Bean",
+    "Image": "../assets/images/items/351.png"
+  },
+  {
+    "Name": "Glass Cannon",
+    "Category": "I",
+    "ID": "352",
+    "Subname": "Be gentle...",
+    "Description": "Reduces Isaac's health to half a heart (including soul and black hearts) and fires one large piercing spectral tear that does a lot of damage when used. The damage done by Glass Cannon scales with Isaac's damage (at base damage it does 45 damage).",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Glass_Cannon",
+    "Image": "../assets/images/items/352.png"
+  },
+  {
+    "Name": "Bomber Boy",
+    "Category": "I",
+    "ID": "353",
+    "Subname": "Explosive blast!",
+    "Description": "+5 bombs. Isaac's bombs will now explode in a large cross-shaped pattern (roughly 5 bombs explosions wide). This also affects player-spawned troll bombs.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Bomber_Boy",
+    "Image": "../assets/images/items/353.png"
+  },
+  {
+    "Name": "Crack Jacks",
+    "Category": "I",
+    "ID": "354",
+    "Subname": "Don't swallow the prize!",
+    "Description": "Adds one heart container and drops a random trinket.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Crack_Jacks",
+    "Image": "../assets/images/items/354.png"
+  },
+  {
+    "Name": "Mom's Pearls",
+    "Category": "I",
+    "ID": "355",
+    "Subname": "Range + luck up",
+    "Description": "+1.25 Range Up. +0.5 Tear Height. +1 Luck Up.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mom%27s_Pearls",
+    "Image": "../assets/images/items/355.png"
+  },
+  {
+    "Name": "Car Battery",
+    "Category": "I",
+    "ID": "356",
+    "Subname": "Double charge!",
+    "Description": "Causes Isaac's activated item to activate twice on each use.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Car_Battery",
+    "Image": "../assets/images/items/356.png"
+  },
+  {
+    "Name": "Box of Friends",
+    "Category": "I",
+    "ID": "357",
+    "Subname": "Double your friends",
+    "Description": "Upon use, duplicates all of Isaac's familiars for the current room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Box_of_Friends",
+    "Image": "../assets/images/items/357.png"
+  },
+  {
+    "Name": "The Wiz",
+    "Category": "I",
+    "ID": "358",
+    "Subname": "Double wiz shot!",
+    "Description": "Tears simultaneously fire out of both eyes diagonally, similar to the effect of the R U A Wizard? pill. Isaac's tears also travel above all obstacles.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Wiz",
+    "Image": "../assets/images/items/358.png"
+  },
+  {
+    "Name": "8 Inch Nails",
+    "Category": "I",
+    "ID": "359",
+    "Subname": "Stick it to 'em!",
+    "Description": "+1.5 Damage Up. Replaces Isaac's tears with nails, which have increased knockback.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/8_Inch_Nails",
+    "Image": "../assets/images/items/359.png"
+  },
+  {
+    "Name": "Incubus",
+    "Category": "I",
+    "ID": "360",
+    "Subname": "Dark friend",
+    "Description": "A demonic familiar that follows Isaac and shoots tears identical to Isaac's in terms of damage, range, fire rate, and effects.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Incubus",
+    "Image": "../assets/images/items/360.png"
+  },
+  {
+    "Name": "Fate's Reward",
+    "Category": "I",
+    "ID": "361",
+    "Subname": "Your fate beside you",
+    "Description": "A blue head familiar that will follow Isaac and fire tears copying his tear effects and damage.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Fate%27s_Reward",
+    "Image": "../assets/images/items/361.png"
+  },
+  {
+    "Name": "Lil Chest",
+    "Category": "I",
+    "ID": "362",
+    "Subname": "What's in the box?",
+    "Description": "Spawns a chest familiar that follows Isaac and drops a random pickup every few rooms.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Lil_Chest",
+    "Image": "../assets/images/items/362.png"
+  },
+  {
+    "Name": "Sworn Protector",
+    "Category": "I",
+    "ID": "363",
+    "Subname": "Protective friend",
+    "Description": "An orbital angel which does 7 contact damage per tick and blocks enemy shots. Upon blocking 10 shots in a room it drops an eternal heart.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Sworn_Protector",
+    "Image": "../assets/images/items/363.png"
+  },
+  {
+    "Name": "Friend Zone",
+    "Category": "I",
+    "ID": "364",
+    "Subname": "Friendly fly",
+    "Description": "A white orbiting fly which deals 3 contact damage per tick to enemies. This familiar orbits Isaac at a middle length distance somewhere between Distant Admiration and Forever Alone.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Friend_Zone",
+    "Image": "../assets/images/items/364.png"
+  },
+  {
+    "Name": "Lost Fly",
+    "Category": "I",
+    "ID": "365",
+    "Subname": "Lost protector",
+    "Description": "A familiar fly that moves in a straight line and attaches itself to the first obstacle or wall it comes into contact with in each room. If any enemies walk into its path, it will deal 7 contact damage per tick. If the obstacle it is attached to is destroyed then it will continue rolling in the direction it was previously travelling until it meets another wall or obstacle.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Lost_Fly",
+    "Image": "../assets/images/items/365.png"
+  },
+  {
+    "Name": "Scatter Bombs",
+    "Category": "I",
+    "ID": "366",
+    "Subname": "We put bombs in your bombs!",
+    "Description": "Adds 5 bombs. Isaac's bombs explode into 2-4 tiny bombs.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Scatter_Bombs",
+    "Image": "../assets/images/items/366.png"
+  },
+  {
+    "Name": "Sticky Bombs",
+    "Category": "I",
+    "ID": "367",
+    "Subname": "Egg sack bombs!",
+    "Description": "+5 bombs. Bombs stick to enemies and spawn 2-4 blue spiders if they kill an enemy.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Sticky_Bombs",
+    "Image": "../assets/images/items/367.png"
+  },
+  {
+    "Name": "Epiphora",
+    "Category": "I",
+    "ID": "368",
+    "Subname": "Intensifying tears",
+    "Description": "Shooting in one direction increases Isaac's rate of fire until the cap is reached. As soon as Isaac changes direction or stops shooting, rate of fire is reset to its normal amount.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Epiphora",
+    "Image": "../assets/images/items/368.png"
+  },
+  {
+    "Name": "Continuum",
+    "Category": "I",
+    "ID": "369",
+    "Subname": "Transcendent tears",
+    "Description": "+2.25 Range Up. +1.5 Tear Height. Isaac's tears travel through walls and appear out of the opposite wall. Isaac's tears also travel over rocks and objects.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Continuum",
+    "Image": "../assets/images/items/369.png"
+  },
+  {
+    "Name": "Mr. Dolly",
+    "Category": "I",
+    "ID": "370",
+    "Subname": "Range + tears up",
+    "Description": "Tears and Range up. Spawns 3 random types of hearts on the floor when picked up.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mr._Dolly",
+    "Image": "../assets/images/items/370.png"
+  },
+  {
+    "Name": "Curse of the Tower",
+    "Category": "I",
+    "ID": "371",
+    "Subname": "You feel cursed...",
+    "Description": "Causes Isaac to spawn 6 troll bombs on the floor every time he gets hit, similar to the Anarchist Cookbook mechanic.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Curse_of_the_Tower",
+    "Image": "../assets/images/items/371.png"
+  },
+  {
+    "Name": "Charged Baby",
+    "Category": "I",
+    "ID": "372",
+    "Subname": "Bbbzzzzzt!",
+    "Description": "A familiar that may drop a Little Battery. Has a small chance to freeze all enemies in the room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Charged_Baby",
+    "Image": "../assets/images/items/372.png"
+  },
+  {
+    "Name": "Dead Eye",
+    "Category": "I",
+    "ID": "373",
+    "Subname": "Accuracy brings power!",
+    "Description": "Isaac's damage increases each time an enemy is hit. Damage is reset upon missing a shot.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Dead_Eye",
+    "Image": "../assets/images/items/373.png"
+  },
+  {
+    "Name": "Holy Light",
+    "Category": "I",
+    "ID": "374",
+    "Subname": "Holy shot!",
+    "Description": "Isaac has a random chance to fire a Holy tear, which, when it hits an enemy, will spawn a Crack the Sky-style light beam on the same enemy, dealing damage.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Holy_Light",
+    "Image": "../assets/images/items/374.png"
+  },
+  {
+    "Name": "Host Hat",
+    "Category": "I",
+    "ID": "375",
+    "Subname": "Nice hat!",
+    "Description": "A host familiar that sits on Isaac's head and has a random chance to block enemy shots and retaliate with 3 tears. Grants immunity to explosions.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Host_Hat",
+    "Image": "../assets/images/items/375.png"
+  },
+  {
+    "Name": "Restock",
+    "Category": "I",
+    "ID": "376",
+    "Subname": "Never ending stores!",
+    "Description": "Causes shops to instantly restock their items when they are bought. Granted by default for every character in Greed Mode.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Restock",
+    "Image": "../assets/images/items/376.png"
+  },
+  {
+    "Name": "Bursting Sack",
+    "Category": "I",
+    "ID": "377",
+    "Subname": "Spider love",
+    "Description": "Spider enemies no longer target or deal contact damage to Isaac.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Bursting_Sack",
+    "Image": "../assets/images/items/377.png"
+  },
+  {
+    "Name": "No. 2",
+    "Category": "I",
+    "ID": "378",
+    "Subname": "Uh oh...",
+    "Description": "Continuously firing tears for several seconds causes Isaac to drop a Butt Bomb. Butt Bombs explode for 60 damage like normal bombs, but also deal 10 damage to all enemies in the room and daze them for a short period of time.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/No._2",
+    "Image": "../assets/images/items/378.png"
+  },
+  {
+    "Name": "Pupula Duplex",
+    "Category": "I",
+    "ID": "379",
+    "Subname": "Wide shot",
+    "Description": "Transforms Isaac's tears into a wide arc shape which gives them a much larger hitbox. Gives Isaac spectral tears which allows them to travel through objects in the environment (i.e. rocks).",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Pupula_Duplex",
+    "Image": "../assets/images/items/379.png"
+  },
+  {
+    "Name": "Pay to Play",
+    "Category": "I",
+    "ID": "380",
+    "Subname": "Money talks",
+    "Description": "This item turns all doors that require a single key into doors which need a coin to enter instead. This affects shops, item rooms and libraries.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Pay_to_Play",
+    "Image": "../assets/images/items/380.png"
+  },
+  {
+    "Name": "Eden's Blessing",
+    "Category": "I",
+    "ID": "381",
+    "Subname": "Your future shines brighter",
+    "Description": "+0.7 tears up. Grants a random item at the start of the next run.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Eden%27s_Blessing",
+    "Image": "../assets/images/items/381.png"
+  },
+  {
+    "Name": "Friendly Ball",
+    "Category": "I",
+    "ID": "382",
+    "Subname": "Gotta fetch 'em all!",
+    "Description": "Throwing the ball at an enemy instantly kills it and captures it. The captured enemy can later be released and will be friendly, fighting for Isaac and persisting between rooms.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Friendly_Ball",
+    "Image": "../assets/images/items/382.png"
+  },
+  {
+    "Name": "Tear Detonator",
+    "Category": "I",
+    "ID": "383",
+    "Subname": "Remote tear detonation!",
+    "Description": "When used, will detonate any tears currently on the screen and cause each one to split into 6 more tears which will fire in a circle, similar to Tammy's Head.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Tear_Detonator",
+    "Image": "../assets/images/items/383.png"
+  },
+  {
+    "Name": "Lil Gurdy",
+    "Category": "I",
+    "ID": "384",
+    "Subname": "A gurd of your own!",
+    "Description": "Gives Isaac a Gurdy familiar that will charge around the room dealing contact damage to enemies. Lil Gurdy is charged by holding down a fire button and letting go. The longer the button is held, the faster Lil Gurdy will fling itself across the screen. Lil Gurdy can pass over objects and obstacles in the room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Lil_Gurdy",
+    "Image": "../assets/images/items/384.png"
+  },
+  {
+    "Name": "Bumbo",
+    "Category": "I",
+    "ID": "385",
+    "Subname": "Bumbo want coin!",
+    "Description": "Spawns a beggar familiar which floats around the room and picks up any nearby coins, leveling up after collecting several coins. At level 2, Bumbo gains a body. At level 3, it begins to fire tears. At level 4, Bumbo chases enemies slowly, dealing contact damage.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Bumbo",
+    "Image": "../assets/images/items/385.png"
+  },
+  {
+    "Name": "D12",
+    "Category": "I",
+    "ID": "386",
+    "Subname": "Rerolls rocks",
+    "Description": "Re-rolls all rocks in the current room into other random objects, such as bomb rocks, metal blocks, TNT, or poops.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/D12",
+    "Image": "../assets/images/items/386.png"
+  },
+  {
+    "Name": "Censer",
+    "Category": "I",
+    "ID": "387",
+    "Subname": "Peace be with you",
+    "Description": "Gives Isaac a golden censer familiar which creates a huge aura of light that slows down any enemies and enemy shots inside it.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Censer",
+    "Image": "../assets/images/items/387.png"
+  },
+  {
+    "Name": "Key Bum",
+    "Category": "I",
+    "ID": "388",
+    "Subname": "He wants your keys!",
+    "Description": "Spawns a portable key master that follows Isaac and collects keys, giving random chests in return.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Key_Bum",
+    "Image": "../assets/images/items/388.png"
+  },
+  {
+    "Name": "Rune Bag",
+    "Category": "I",
+    "ID": "389",
+    "Subname": "Rune generator",
+    "Description": "A bag that follows Isaac and drops a random rune every 5-6 rooms.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Rune_Bag",
+    "Image": "../assets/images/items/389.png"
+  },
+  {
+    "Name": "Seraphim",
+    "Category": "I",
+    "ID": "390",
+    "Subname": "Sworn friend",
+    "Description": "An angel familiar which follows Isaac and fires homing tears which deal 10 damage at -25% shot speed and a reduced fire rate.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Seraphim",
+    "Image": "../assets/images/items/390.png"
+  },
+  {
+    "Name": "Betrayal",
+    "Category": "I",
+    "ID": "391",
+    "Subname": "Turn your enemy",
+    "Description": "Every time Isaac takes damage, a charm effect is applied to every enemy in the room, causing them to attack each other rather than Isaac.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Betrayal",
+    "Image": "../assets/images/items/391.png"
+  },
+  {
+    "Name": "Zodiac",
+    "Category": "I",
+    "ID": "392",
+    "Subname": "The heavens will change you",
+    "Description": "Zodiac will give Isaac a random zodiac item effect that changes after every floor.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Zodiac",
+    "Image": "../assets/images/items/392.png"
+  },
+  {
+    "Name": "Serpent's Kiss",
+    "Category": "I",
+    "ID": "393",
+    "Subname": "The kiss of death",
+    "Description": "Tears now have a random chance to apply a poison effect, causing 4 or 6 damage per tick to enemies (Similar to The Common Cold item). Isaac now deals poison damage on contact with enemies similar to The Virus item (Damage over time 4 or 6 per tick). Enemies that were poisoned have a chance to drop a black heart when killed.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Serpent%27s_Kiss",
+    "Image": "../assets/images/items/393.png"
+  },
+  {
+    "Name": "Marked",
+    "Category": "I",
+    "ID": "394",
+    "Subname": "Directed tears",
+    "Description": "Isaac will now fire tears automatically directed at a red target on the ground which is controlled by the player. This allows for a full 360 degree tear firing radius. Can be overridden by other tear modifiers such as Mom's Knife or Brimstone.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Marked",
+    "Image": "../assets/images/items/394.png"
+  },
+  {
+    "Name": "Tech X",
+    "Category": "I",
+    "ID": "395",
+    "Subname": "Laser ring tears",
+    "Description": "Tears are replaced with laser rings that pierce through enemies and deal damage to enemies within them. Can be charged to increase the size of the ring.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Tech_X",
+    "Image": "../assets/images/items/395.png"
+  },
+  {
+    "Name": "Ventricle Razor",
+    "Category": "I",
+    "ID": "396",
+    "Subname": "Short cutter",
+    "Description": "Can be used to place an orange portal and a blue portal. Upon entering a portal, Isaac is teleported to the other portal.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Ventricle_Razor",
+    "Image": "../assets/images/items/396.png"
+  },
+  {
+    "Name": "Tractor Beam",
+    "Category": "I",
+    "ID": "397",
+    "Subname": "Control your tears",
+    "Description": "Isaac emits a beam from his face. Isaac's tears travel in the path of the beam.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Tractor_Beam",
+    "Image": "../assets/images/items/397.png"
+  },
+  {
+    "Name": "God's Flesh",
+    "Category": "I",
+    "ID": "398",
+    "Subname": "Shrink shot",
+    "Description": "Tears now have a random chance to apply a shrinking effect, causing enemies to shrink in size and also run away from Isaac. Shrunk enemies can be crushed and killed by walking over them.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/God%27s_Flesh",
+    "Image": "../assets/images/items/398.png"
+  },
+  {
+    "Name": "Maw of the Void",
+    "Category": "I",
+    "ID": "399",
+    "Subname": "Consume thy enemy!",
+    "Description": "+1.0 Damage Up. After continuously firing tears for 2.5 seconds, a red cross appears on Isaac's head that, upon releasing the fire button, creates a black ring that rapidly deals damage equal to Isaac's tear damage to any enemies in contact with it.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Maw_of_the_Void",
+    "Image": "../assets/images/items/399.png"
+  },
+  {
+    "Name": "Spear of Destiny",
+    "Category": "I",
+    "ID": "400",
+    "Subname": "Your destiny",
+    "Description": "In addition to tears, Isaac now holds a spear in front of him which deals damage equal to 2 times his tear damage, and occasionally inflicts fear. The spear cannot be thrown, but deals damage while it is in contact with an enemy.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Spear_of_Destiny",
+    "Image": "../assets/images/items/400.png"
+  },
+  {
+    "Name": "Explosivo",
+    "Category": "I",
+    "ID": "401",
+    "Subname": "Sticky bomb shot!",
+    "Description": "Isaac's tears have a chance to stick to enemies and explode.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Explosivo",
+    "Image": "../assets/images/items/401.png"
+  },
+  {
+    "Name": "Chaos",
+    "Category": "I",
+    "ID": "402",
+    "Subname": "!!!",
+    "Description": "Chaos causes items to be chosen from random item pools. When picked up, drops between 1-6 random pickups on the floor.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Chaos",
+    "Image": "../assets/images/items/402.png"
+  },
+  {
+    "Name": "Spider Mod",
+    "Category": "I",
+    "ID": "403",
+    "Subname": "Mod buddy!",
+    "Description": "Displays Isaac's tear damage and enemy health bars. Spawns a gray spider familiar that wanders around and inflicts a random status effect on any enemies it comes into contact with. Occasionally spawns a blue spider upon clearing a room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Spider_Mod",
+    "Image": "../assets/images/items/403.png"
+  },
+  {
+    "Name": "Farting Baby",
+    "Category": "I",
+    "ID": "404",
+    "Subname": "It farts!",
+    "Description": "A familiar that follows Isaac and blocks tears. If a tear hits Farting Baby, there is a high chance for it to fart, which will either knock back, poison, or charm all nearby enemies.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Farting_Baby",
+    "Image": "../assets/images/items/404.png"
+  },
+  {
+    "Name": "GB Bug",
+    "Category": "I",
+    "ID": "405",
+    "Subname": "Game breaking bug, right away!",
+    "Description": "A glitch familiar that bounces around the room and applies a random status effect to any enemies it comes into contact with and has a chance to re-roll pickups that it passes over.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/GB_Bug",
+    "Image": "../assets/images/items/405.png"
+  },
+  {
+    "Name": "D8",
+    "Category": "I",
+    "ID": "406",
+    "Subname": "Reroll stats",
+    "Description": "Re-rolls Isaac's speed, range, tears, and damage.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/D8",
+    "Image": "../assets/images/items/406.png"
+  },
+  {
+    "Name": "Purity",
+    "Category": "I",
+    "ID": "407",
+    "Subname": "Aura stat boost",
+    "Description": "This item will boost one of Isaac's stats depending on the color of the aura around him. The aura will disappear upon taking damage and will reappear with a random color upon entering a new room. A red aura boosts damage, a blue aura boosts rate of fire, a yellow aura boosts speed, and an orange aura boosts range.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Purity",
+    "Image": "../assets/images/items/407.png"
+  },
+  {
+    "Name": "Athame",
+    "Category": "I",
+    "ID": "408",
+    "Subname": "Call to the void",
+    "Description": "Whenever Isaac takes damage, a black ring briefly appears around Isaac, dealing damage to all nearby enemies.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Athame",
+    "Image": "../assets/images/items/408.png"
+  },
+  {
+    "Name": "Empty Vessel",
+    "Category": "I",
+    "ID": "409",
+    "Subname": "I reward an empty vessel",
+    "Description": "While Isaac has no red hearts, this item grants flight and a random chance to activate an invincibility shield for a few seconds. If Isaac gains any red hearts, these benefits will disappear.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Empty_Vessel",
+    "Image": "../assets/images/items/409.png"
+  },
+  {
+    "Name": "Evil Eye",
+    "Category": "I",
+    "ID": "410",
+    "Subname": "Eye shot!",
+    "Description": "While firing tears, Isaac has a chance to fire an eye across the screen with a very slow shot speed, which will fire tears of its own in the same direction as Isaac. The eye will be destroyed if it comes into contact with an enemy or obstacle.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Evil_Eye",
+    "Image": "../assets/images/items/410.png"
+  },
+  {
+    "Name": "Lusty Blood",
+    "Category": "I",
+    "ID": "411",
+    "Subname": "Their blood brings rage!",
+    "Description": "Each time Isaac kills an enemy, Isaac's damage increases for the current room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Lusty_Blood",
+    "Image": "../assets/images/items/411.png"
+  },
+  {
+    "Name": "Cambion Conception",
+    "Category": "I",
+    "ID": "412",
+    "Subname": "Feed them hate",
+    "Description": "After taking damage a certain amount of times, a permanent demonic familiar spawns.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Cambion_Conception",
+    "Image": "../assets/images/items/412.png"
+  },
+  {
+    "Name": "Immaculate Conception",
+    "Category": "I",
+    "ID": "413",
+    "Subname": "Feed them love",
+    "Description": "Upon picking up a certain amount of health, spawn a permanent angelic familiar.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Immaculate_Conception",
+    "Image": "../assets/images/items/413.png"
+  },
+  {
+    "Name": "More Options",
+    "Category": "I",
+    "ID": "414",
+    "Subname": "There are even more options!",
+    "Description": "Two items spawn in every Treasure Room. Only one can be taken the other will disappear.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/More_Options",
+    "Image": "../assets/images/items/414.png"
+  },
+  {
+    "Name": "Crown of Light",
+    "Category": "I",
+    "ID": "415",
+    "Subname": "The untainted gain power",
+    "Description": "Gives Isaac a crown that glows blue when active, and turns gray when inactive. While Isaac has no empty red heart containers, Isaac's tears are replaced with blue diamond tears that deal double damage. Regardless of health, the crown will deactivate for the current room when Isaac takes damage.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Crown_of_Light",
+    "Image": "../assets/images/items/415.png"
+  },
+  {
+    "Name": "Deep Pockets",
+    "Category": "I",
+    "ID": "416",
+    "Subname": "More stuff to carry!",
+    "Description": "Allows Isaac to carry two cards or pills (or a combination of both) at the same time.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Deep_Pockets",
+    "Image": "../assets/images/items/416.png"
+  },
+  {
+    "Name": "Succubus",
+    "Category": "I",
+    "ID": "417",
+    "Subname": "Damage booster",
+    "Description": "Spawns a flying familiar that bounces around the room with a black aura, dealing rapid damage to any enemies inside it. While standing in the aura, Isaac gains a 1.5x tear damage multiplier.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Succubus",
+    "Image": "../assets/images/items/417.png"
+  },
+  {
+    "Name": "Fruit Cake",
+    "Category": "I",
+    "ID": "418",
+    "Subname": "Rainbow effects!",
+    "Description": "Isaac's tears gain a random effect that changes every shot.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Fruit_Cake",
+    "Image": "../assets/images/items/418.png"
+  },
+  {
+    "Name": "Teleport 2.0",
+    "Category": "I",
+    "ID": "419",
+    "Subname": "I-Teleport!",
+    "Description": "Teleports Isaac to a random room that has not been explored yet when used. If all rooms are explored, including secret rooms, it will teleport Isaac to the Devil or Angel room. If all rooms are explored, including the Devil or Angel room, it will teleport Isaac to the I AM ERROR room. If used in a room with enemies, it will teleport Isaac out and back into the same room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Teleport_2.0",
+    "Image": "../assets/images/items/419.png"
+  },
+  {
+    "Name": "Black Powder",
+    "Category": "I",
+    "ID": "420",
+    "Subname": "Spin the black circle!",
+    "Description": "Isaac leaves a trail of black powder on the floor. Walking in a circle will spawn a pentagram symbol on the floor, which deals 10 damage per tick to any enemies inside it.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Black_Powder",
+    "Image": "../assets/images/items/420.png"
+  },
+  {
+    "Name": "Kidney Bean",
+    "Category": "I",
+    "ID": "421",
+    "Subname": "Love toots!",
+    "Description": "Upon use, Isaac farts, charming all nearby enemies.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Kidney_Bean",
+    "Image": "../assets/images/items/421.png"
+  },
+  {
+    "Name": "Glowing Hour Glass",
+    "Category": "I",
+    "ID": "422",
+    "Subname": "Turn back time",
+    "Description": "When used, this item will rewind time, put Isaac back in the previous room, and undo anything that happened in the current room. Any health, pickups, or items gained or lost will be reset back to the previous state.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Glowing_Hour_Glass",
+    "Image": "../assets/images/items/422.png"
+  },
+  {
+    "Name": "Circle of Protection",
+    "Category": "I",
+    "ID": "423",
+    "Subname": "Protect me from myself",
+    "Description": "Surrounds Isaac with a large white halo. Once per second, the halo deals Isaac's tear damage to enemies inside it. It may also convert enemy shots entering the halo into friendly purple homing tears.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Circle_of_Protection",
+    "Image": "../assets/images/items/423.png"
+  },
+  {
+    "Name": "Sack Head",
+    "Category": "I",
+    "ID": "424",
+    "Subname": "More sacks!",
+    "Description": "Greatly increases the chance to find sacks.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Sack_Head",
+    "Image": "../assets/images/items/424.png"
+  },
+  {
+    "Name": "Night Light",
+    "Category": "I",
+    "ID": "425",
+    "Subname": "Scared of the dark?",
+    "Description": "A cone of light shines in the direction Isaac is moving that slows enemies and enemy shots.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Night_Light",
+    "Image": "../assets/images/items/425.png"
+  },
+  {
+    "Name": "Obsessed Fan",
+    "Category": "I",
+    "ID": "426",
+    "Subname": "Follows my every move...",
+    "Description": "A purple fly familiar that follows Isaac's movements on a 3 second delay and deals contact damage to enemies.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Obsessed_Fan",
+    "Image": "../assets/images/items/426.png"
+  },
+  {
+    "Name": "Mine Crafter",
+    "Category": "I",
+    "ID": "427",
+    "Subname": "Booom!",
+    "Description": "Places an explosive TNT barrel that can be pushed and used to destroy rocks or damage enemies when used. If used a second time in the same room while the previous TNT barrel is still intact, it will remotely explode the TNT.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mine_Crafter",
+    "Image": "../assets/images/items/427.png"
+  },
+  {
+    "Name": "PJs",
+    "Category": "I",
+    "ID": "428",
+    "Subname": "You feel cozy",
+    "Description": "Grants four soul hearts and fully restores Isaac's red health.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/PJs",
+    "Image": "../assets/images/items/428.png"
+  },
+  {
+    "Name": "Head of the Keeper",
+    "Category": "I",
+    "ID": "429",
+    "Subname": "Penny tears!",
+    "Description": "Isaac's tears become coins and now have a chance to drop pennies on the floor upon successfully hitting an enemy.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Head_of_the_Keeper",
+    "Image": "../assets/images/items/429.png"
+  },
+  {
+    "Name": "Papa Fly",
+    "Category": "I",
+    "ID": "430",
+    "Subname": "Turret follower",
+    "Description": "A blue fly familiar follows Isaac's movements on a 3 second delay. Papa Fly will fire tears at nearby enemies.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Papa_Fly",
+    "Image": "../assets/images/items/430.png"
+  },
+  {
+    "Name": "Multidimensional Baby",
+    "Category": "I",
+    "ID": "431",
+    "Subname": "ydduB Buddy",
+    "Description": "Spawns a familiar that will follow Isaac's movements on a 2.5 second delay. Tears that pass through the baby will be doubled and increase in speed.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Multidimensional_Baby",
+    "Image": "../assets/images/items/431.png"
+  },
+  {
+    "Name": "Glitter Bombs",
+    "Category": "I",
+    "ID": "432",
+    "Subname": "Prize bombs!",
+    "Description": "Gives Isaac 5 bombs, and makes Isaac's bombs have a chance to drop random pickups or charm enemies when they explode.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Glitter_Bombs",
+    "Image": "../assets/images/items/432.png"
+  },
+  {
+    "Name": "My Shadow",
+    "Category": "I",
+    "ID": "433",
+    "Subname": "Me! And my shaaaadow!",
+    "Description": "Each time Isaac takes damage, inflicts fear on all enemies in the room and spawns a black friendly Charger that will attack enemies. The Charger will be killed if it is damaged too much.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/My_Shadow",
+    "Image": "../assets/images/items/433.png"
+  },
+  {
+    "Name": "Jar of Flies",
+    "Category": "I",
+    "ID": "434",
+    "Subname": "Gotta catch 'em all?",
+    "Description": "Every time Isaac kills an enemy, a fly will be added to the jar, up to a maximum of 20. Using the Jar of Flies will release all the flies that are currently in the jar as friendly blue flies that will damage enemies.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Jar_of_Flies",
+    "Image": "../assets/images/items/434.png"
+  },
+  {
+    "Name": "Lil' Loki",
+    "Category": "I",
+    "ID": "435",
+    "Subname": "4-way buddy!",
+    "Description": "A Loki familiar that follows Isaac and shoots 4 tears in a cross pattern.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Lil%27_Loki",
+    "Image": "../assets/images/items/435.png"
+  },
+  {
+    "Name": "Milk!",
+    "Category": "I",
+    "ID": "436",
+    "Subname": "Don't cry over it...",
+    "Description": "A glass of milk follows Isaac and spills on the floor upon taking damage. After the milk spills, Isaac's tear delay is decreased by 2 for the rest of the room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Milk!",
+    "Image": "../assets/images/items/436.png"
+  },
+  {
+    "Name": "D7",
+    "Category": "I",
+    "ID": "437",
+    "Subname": "Reroll rewards!",
+    "Description": "Restarts the current room and brings back all enemies, allowing more rewards to be acquired by completing the room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/D7",
+    "Image": "../assets/images/items/437.png"
+  },
+  {
+    "Name": "Binky",
+    "Category": "I",
+    "ID": "438",
+    "Subname": "Memories...",
+    "Description": "Tears up, adds 1 soul heart, and decreases Isaac's size.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Binky",
+    "Image": "../assets/images/items/438.png"
+  },
+  {
+    "Name": "Mom's Box",
+    "Category": "I",
+    "ID": "439",
+    "Subname": "What's inside?",
+    "Description": "When used, Mom's Box will drop a random trinket on the ground. While held, increases luck by 1 and doubles the effects of trinkets.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mom%27s_Box",
+    "Image": "../assets/images/items/439.png"
+  },
+  {
+    "Name": "Kidney Stone",
+    "Category": "I",
+    "ID": "440",
+    "Subname": "Matt's kidney stone",
+    "Description": "Randomly while firing tears, Isaac will stop firing and turn red, where he will charge and release a lot of 'tears' in one go. In the burst of tears is a kidney stone which deals a lot of damage.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Kidney_Stone",
+    "Image": "../assets/images/items/440.png"
+  },
+  {
+    "Name": "Mega Blast",
+    "Category": "I",
+    "ID": "441",
+    "Subname": "Laser breath",
+    "Description": "Upon use, Isaac fires a laser similar to the one used by Mega Satan. This laser deals massive damage, lasts for approximately 15 seconds, and persists between rooms. Isaac is pushed backwards by the force of the laser while it is active.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mega_Blast",
+    "Image": "../assets/images/items/441.png"
+  },
+  {
+    "Name": "Dark Prince's Crown",
+    "Category": "I",
+    "ID": "442",
+    "Subname": "Loss is power",
+    "Description": "Increases range, tears, and shot speed when at exactly one red heart.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Dark_Prince%27s_Crown",
+    "Image": "../assets/images/items/442.png"
+  },
+  {
+    "Name": "Apple!",
+    "Category": "I",
+    "ID": "443",
+    "Subname": "Trick or treat?",
+    "Description": "Increases tears. Adds a chance to fire a high-damage razor blade.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Apple!",
+    "Image": "../assets/images/items/443.png"
+  },
+  {
+    "Name": "Lead Pencil",
+    "Category": "I",
+    "ID": "444",
+    "Subname": "He's a bleeder!",
+    "Description": "After every 15 tears fired, Isaac will fire a high-damage cluster of tears.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Lead_Pencil",
+    "Image": "../assets/images/items/444.png"
+  },
+  {
+    "Name": "Dog Tooth",
+    "Category": "I",
+    "ID": "445",
+    "Subname": "Bark at the moon!",
+    "Description": "Increases damage and speed. Upon entering a room adjacent to a secret room, a howl sound effect will play.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Dog_Tooth",
+    "Image": "../assets/images/items/445.png"
+  },
+  {
+    "Name": "Dead Tooth",
+    "Category": "I",
+    "ID": "446",
+    "Subname": "Halitosis",
+    "Description": "While firing, Isaac gains a green aura that poisons nearby enemies.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Dead_Tooth",
+    "Image": "../assets/images/items/446.png"
+  },
+  {
+    "Name": "Linger Bean",
+    "Category": "I",
+    "ID": "447",
+    "Subname": "Crying makes me toot",
+    "Description": "Adds a chance to fire a gas cloud that damages nearby enemies.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Linger_Bean",
+    "Image": "../assets/images/items/447.png"
+  },
+  {
+    "Name": "Shard of Glass",
+    "Category": "I",
+    "ID": "448",
+    "Subname": "Blood and guts!",
+    "Description": "Upon taking damage, Isaac has a chance to drop a full red heart, gain 5 range, and leave a trail of damaging red creep for the current room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Shard_of_Glass",
+    "Image": "../assets/images/items/448.png"
+  },
+  {
+    "Name": "Metal Plate",
+    "Category": "I",
+    "ID": "449",
+    "Subname": "It itches...",
+    "Description": "Adds a chance to reflect enemy shots. Grants one soul heart.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Metal_Plate",
+    "Image": "../assets/images/items/449.png"
+  },
+  {
+    "Name": "Eye of Greed",
+    "Category": "I",
+    "ID": "450",
+    "Subname": "Gold tears!",
+    "Description": "Adds a chance to fire tears that temporarily stun enemies and turn them into gold. Any enemy killed while in this state will drop coins.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Eye_of_Greed",
+    "Image": "../assets/images/items/450.png"
+  },
+  {
+    "Name": "Tarot Cloth",
+    "Category": "I",
+    "ID": "451",
+    "Subname": "I see the future",
+    "Description": "Drops a random card or rune. Doubles the effects of cards and runes.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Tarot_Cloth",
+    "Image": "../assets/images/items/451.png"
+  },
+  {
+    "Name": "Varicose Veins",
+    "Category": "I",
+    "ID": "452",
+    "Subname": "I'm leaking...",
+    "Description": "Taking damage releases a ring of 10 high damage tears.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Varicose_Veins",
+    "Image": "../assets/images/items/452.png"
+  },
+  {
+    "Name": "Compound Fracture",
+    "Category": "I",
+    "ID": "453",
+    "Subname": "Bone tears!",
+    "Description": "Increases range. Tears turn into bones, which shatter into 1-3 bone shards upon hitting an enemy or obstacle.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Compound_Fracture",
+    "Image": "../assets/images/items/453.png"
+  },
+  {
+    "Name": "Polydactyly",
+    "Category": "I",
+    "ID": "454",
+    "Subname": "Hold me!",
+    "Description": "Allows Isaac to carry two cards, pills, or any combination of both at the same time. Drops a random card or pill.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Polydactyly",
+    "Image": "../assets/images/items/454.png"
+  },
+  {
+    "Name": "Dad's Lost Coin",
+    "Category": "I",
+    "ID": "455",
+    "Subname": "I remember this...",
+    "Description": "Increases range by 1.5. Drops a lucky penny.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Dad%27s_Lost_Coin",
+    "Image": "../assets/images/items/455.png"
+  },
+  {
+    "Name": "Moldy Bread",
+    "Category": "I",
+    "ID": "456",
+    "Subname": "Midnight snack!",
+    "Description": "Grants one full red heart container.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Moldy_Bread",
+    "Image": "../assets/images/items/456.png"
+  },
+  {
+    "Name": "Cone Head",
+    "Category": "I",
+    "ID": "457",
+    "Subname": "Hard headed!",
+    "Description": "Grants a soul heart. Adds a chance to block enemy shots.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Cone_Head",
+    "Image": "../assets/images/items/457.png"
+  },
+  {
+    "Name": "Belly Button",
+    "Category": "I",
+    "ID": "458",
+    "Subname": "What's in there?",
+    "Description": "Drops a random trinket. Grants a second trinket slot.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Belly_Button",
+    "Image": "../assets/images/items/458.png"
+  },
+  {
+    "Name": "Sinus Infection",
+    "Category": "I",
+    "ID": "459",
+    "Subname": "Booger tears!",
+    "Description": "Adds a chance to fire a booger which sticks to enemies and poisons them.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Sinus_Infection",
+    "Image": "../assets/images/items/459.png"
+  },
+  {
+    "Name": "Glaucoma",
+    "Category": "I",
+    "ID": "460",
+    "Subname": "Blind tears!",
+    "Description": "Adds a chance to shoot concussive tears, causing enemies to walk around randomly.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Glaucoma",
+    "Image": "../assets/images/items/460.png"
+  },
+  {
+    "Name": "Parasitoid",
+    "Category": "I",
+    "ID": "461",
+    "Subname": "Egg tears!",
+    "Description": "Adds a chance to fire an egg sack which spawns slowing creep and spawns a blue fly or spider upon hitting an enemy.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Parasitoid",
+    "Image": "../assets/images/items/461.png"
+  },
+  {
+    "Name": "Eye of Belial",
+    "Category": "I",
+    "ID": "462",
+    "Subname": "Possessed tears!",
+    "Description": "Grants piercing tears. After piercing one enemy, tears start homing and deal double damage.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Eye_of_Belial",
+    "Image": "../assets/images/items/462.png"
+  },
+  {
+    "Name": "Sulfuric Acid",
+    "Category": "I",
+    "ID": "463",
+    "Subname": "Acid tears!",
+    "Description": "Increases damage. Adds a chance to fire acidic tears which can destroy obstacles.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Sulfuric_Acid",
+    "Image": "../assets/images/items/463.png"
+  },
+  {
+    "Name": "Glyph of Balance",
+    "Category": "I",
+    "ID": "464",
+    "Subname": "A gift from above",
+    "Description": "Grants 2 soul hearts and modifies drops from Champion Monsters based on certain conditions.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Glyph_of_Balance",
+    "Image": "../assets/images/items/464.png"
+  },
+  {
+    "Name": "Analog Stick",
+    "Category": "I",
+    "ID": "465",
+    "Subname": "360 tears!",
+    "Description": "+0.3 tears up. Allows Isaac to fire tears diagonally.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Analog_Stick",
+    "Image": "../assets/images/items/465.png"
+  },
+  {
+    "Name": "Contagion",
+    "Category": "I",
+    "ID": "466",
+    "Subname": "Outbreak!",
+    "Description": "The first enemy killed in a room explodes and poisons nearby enemies. Poisoned enemies will also explode upon death.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Contagion",
+    "Image": "../assets/images/items/466.png"
+  },
+  {
+    "Name": "Finger!",
+    "Category": "I",
+    "ID": "467",
+    "Subname": "Watch where you point that!",
+    "Description": "Spawns a finger familiar that points at enemies, dealing constant damage.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Finger!",
+    "Image": "../assets/images/items/467.png"
+  },
+  {
+    "Name": "Shade",
+    "Category": "I",
+    "ID": "468",
+    "Subname": "It follows",
+    "Description": "Spawns a shadow familiar that follows Isaac's movements on a 1 second delay and deals contact damage to enemies.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Shade",
+    "Image": "../assets/images/items/468.png"
+  },
+  {
+    "Name": "Depression",
+    "Category": "I",
+    "ID": "469",
+    "Subname": ":(",
+    "Description": "Spawns a cloud familiar that leaves a trail of tears that damages enemies. Has a chance to spawn damaging beams of light onto enemies that touch the cloud.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Depression",
+    "Image": "../assets/images/items/469.png"
+  },
+  {
+    "Name": "Hushy",
+    "Category": "I",
+    "ID": "470",
+    "Subname": "Lil hush!",
+    "Description": "Spawns a Hush familiar that bounces around the room and deals contact damage. While firing tears, it stops moving.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Hushy",
+    "Image": "../assets/images/items/470.png"
+  },
+  {
+    "Name": "Lil Monstro",
+    "Category": "I",
+    "ID": "471",
+    "Subname": "Ain't he cute?",
+    "Description": "Spawns a familiar that fires clusters of tears. Must be charged before shooting.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Lil_Monstro",
+    "Image": "../assets/images/items/471.png"
+  },
+  {
+    "Name": "King Baby",
+    "Category": "I",
+    "ID": "472",
+    "Subname": "Lord of the dead!",
+    "Description": "Spawns a familiar that follows Isaac and makes other familiars follow it. While firing tears, it stops moving.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/King_Baby",
+    "Image": "../assets/images/items/472.png"
+  },
+  {
+    "Name": "Big Chubby",
+    "Category": "I",
+    "ID": "473",
+    "Subname": "Chub chub",
+    "Description": "Spawns a familiar that slowly charges forward and damages enemies in its path.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Big_Chubby",
+    "Image": "../assets/images/items/473.png"
+  },
+  {
+    "Name": "Tonsil",
+    "Category": "I",
+    "ID": "474",
+    "Subname": "Gross...",
+    "Description": "Grants a familiar that can block enemy shots.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Tonsil",
+    "Image": "../assets/images/items/474.png"
+  },
+  {
+    "Name": "Plan C",
+    "Category": "I",
+    "ID": "475",
+    "Subname": "Use with caution",
+    "Description": "Kills all enemies in the room, then kills Isaac three seconds later.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Plan_C",
+    "Image": "../assets/images/items/475.png"
+  },
+  {
+    "Name": "D1",
+    "Category": "I",
+    "ID": "476",
+    "Subname": "What will it be?",
+    "Description": "Duplicates a random pickup in the room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/D1",
+    "Image": "../assets/images/items/476.png"
+  },
+  {
+    "Name": "Void",
+    "Category": "I",
+    "ID": "477",
+    "Subname": "Consume",
+    "Description": "Consumes all pedestal items in the room. Active items will have their effects added to Void, and passive items will grant stat upgrades.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Void",
+    "Image": "../assets/images/items/477.png"
+  },
+  {
+    "Name": "Pause",
+    "Category": "I",
+    "ID": "478",
+    "Subname": "Stop!",
+    "Description": "Freezes all enemies until a fire button is pressed.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Pause",
+    "Image": "../assets/images/items/478.png"
+  },
+  {
+    "Name": "Smelter",
+    "Category": "I",
+    "ID": "479",
+    "Subname": "Trinket melter!",
+    "Description": "Consumes Isaac's currently held trinket and applies its effect permanently.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Smelter",
+    "Image": "../assets/images/items/479.png"
+  },
+  {
+    "Name": "Compost",
+    "Category": "I",
+    "ID": "480",
+    "Subname": "Gain more friends!",
+    "Description": "Spawns a blue spider or fly. Turns pickups in the room into blue spiders or flies.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Compost",
+    "Image": "../assets/images/items/480.png"
+  },
+  {
+    "Name": "Dataminer",
+    "Category": "I",
+    "ID": "481",
+    "Subname": "109",
+    "Description": "Displaces enemy sprites for the current room, randomly increases one stat and decreases another.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Dataminer",
+    "Image": "../assets/images/items/481.png"
+  },
+  {
+    "Name": "Clicker",
+    "Category": "I",
+    "ID": "482",
+    "Subname": "Change",
+    "Description": "Transforms Isaac into another random character.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Clicker",
+    "Image": "../assets/images/items/482.png"
+  },
+  {
+    "Name": "Mama Mega!",
+    "Category": "I",
+    "ID": "483",
+    "Subname": "BOOOOOOOOOM!",
+    "Description": "Damages all enemies and destroys all obstacles. The effect occurs every time a new room is entered for the rest of the floor. Opens doors to the floor's secret and super secret rooms.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mama_Mega!",
+    "Image": "../assets/images/items/483.png"
+  },
+  {
+    "Name": "Wait What?",
+    "Category": "I",
+    "ID": "484",
+    "Subname": "I can't believe it's not Butter Bean!",
+    "Description": "Isaac farts, sending out rock waves.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Wait_What%3F",
+    "Image": "../assets/images/items/484.png"
+  },
+  {
+    "Name": "Crooked Penny",
+    "Category": "I",
+    "ID": "485",
+    "Subname": "50/50",
+    "Description": "Spawns a penny and has a 50% chance to double all items and pickups in the room. If the effect fails, the items and pickups disappear.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Crooked_Penny",
+    "Image": "../assets/images/items/485.png"
+  },
+  {
+    "Name": "Dull Razor",
+    "Category": "I",
+    "ID": "486",
+    "Subname": "I feel numb...",
+    "Description": "Hurts Isaac without depleting health, activating any items that trigger upon taking damage.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Dull_Razor",
+    "Image": "../assets/images/items/486.png"
+  },
+  {
+    "Name": "Potato Peeler",
+    "Category": "I",
+    "ID": "487",
+    "Subname": "A pound of flesh",
+    "Description": "Removes a heart container, increases damage and range, and grants a Cube of Meat.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Potato_Peeler",
+    "Image": "../assets/images/items/487.png"
+  },
+  {
+    "Name": "Metronome",
+    "Category": "I",
+    "ID": "488",
+    "Subname": "Waggles a finger",
+    "Description": "Grants a random item effect for the current room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Metronome",
+    "Image": "../assets/images/items/488.png"
+  },
+  {
+    "Name": "D Infinity",
+    "Category": "I",
+    "ID": "489",
+    "Subname": "Reroll forever",
+    "Description": "Grants a random dice item that changes each use.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/D_Infinity",
+    "Image": "../assets/images/items/489.png"
+  },
+  {
+    "Name": "Eden's Soul",
+    "Category": "I",
+    "ID": "490",
+    "Subname": "...",
+    "Description": "Spawns two item pedestals.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Eden%27s_Soul",
+    "Image": "../assets/images/items/490.png"
+  },
+  {
+    "Name": "Acid Baby",
+    "Category": "I",
+    "ID": "491",
+    "Subname": "Pills pills pills!",
+    "Description": "Spawns a familiar that drops random pills every 3 rooms cleared. Upon using a pill, all enemies in the room are poisoned.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Acid_Baby",
+    "Image": "../assets/images/items/491.png"
+  },
+  {
+    "Name": "YO LISTEN!",
+    "Category": "I",
+    "ID": "492",
+    "Subname": "Yo listen!",
+    "Description": "+1 luck. Spawns a fairy familiar that points out secret room entrances and tinted rocks.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/YO_LISTEN!",
+    "Image": "../assets/images/items/492.png"
+  },
+  {
+    "Name": "Adrenaline",
+    "Category": "I",
+    "ID": "493",
+    "Subname": "Panic = power",
+    "Description": "Increases damage based on how many empty heart containers Isaac has.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Adrenaline",
+    "Image": "../assets/images/items/493.png"
+  },
+  {
+    "Name": "Jacob's Ladder",
+    "Category": "I",
+    "ID": "494",
+    "Subname": "Electric tears",
+    "Description": "Tears fire sparks of electricity in random directions upon hitting an obstacle or enemy.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Jacob%27s_Ladder",
+    "Image": "../assets/images/items/494.png"
+  },
+  {
+    "Name": "Ghost Pepper",
+    "Category": "I",
+    "ID": "495",
+    "Subname": "Flame tears",
+    "Description": "Adds a chance to shoot a fire that damages enemies and remains in place until it deals enough damage or the room is left.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Ghost_Pepper",
+    "Image": "../assets/images/items/495.png"
+  },
+  {
+    "Name": "Euthanasia",
+    "Category": "I",
+    "ID": "496",
+    "Subname": "Needle shot",
+    "Description": "Adds a chance to fire needles. If a needle kills an enemy, it bursts into more needles.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Euthanasia",
+    "Image": "../assets/images/items/496.png"
+  },
+  {
+    "Name": "Camo Undies",
+    "Category": "I",
+    "ID": "497",
+    "Subname": "Camo kid",
+    "Description": "Isaac becomes camouflaged at the beginning of each room. Enemies will not attack Isaac until he starts firing tears.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Camo_Undies",
+    "Image": "../assets/images/items/497.png"
+  },
+  {
+    "Name": "Duality",
+    "Category": "I",
+    "ID": "498",
+    "Subname": "You feel very balanced",
+    "Description": "Whenever a Devil or Angel Room would spawn after defeating a boss, both rooms spawn. Only one can be entered.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Duality",
+    "Image": "../assets/images/items/498.png"
+  },
+  {
+    "Name": "Eucharist",
+    "Category": "I",
+    "ID": "499",
+    "Subname": "Peace be with you",
+    "Description": "An Angel Room door will always spawn after every boss fight, excluding the first floor and floors after Utero II/Womb II.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Eucharist",
+    "Image": "../assets/images/items/499.png"
+  },
+  {
+    "Name": "Sack of Sacks",
+    "Category": "I",
+    "ID": "500",
+    "Subname": "Gives sacks",
+    "Description": "Spawns a sack familiar that drops a sack upon clearing 5-6 rooms.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Sack_of_Sacks",
+    "Image": "../assets/images/items/500.png"
+  },
+  {
+    "Name": "Greed's Gullet",
+    "Category": "I",
+    "ID": "501",
+    "Subname": "Money = health!",
+    "Description": "Grants a heart container for every 25 coins Isaac has.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Greed%27s_Gullet",
+    "Image": "../assets/images/items/501.png"
+  },
+  {
+    "Name": "Large Zit",
+    "Category": "I",
+    "ID": "502",
+    "Subname": "Creep shots",
+    "Description": "Adds a chance to fire a creep shot that deals double damage and leaves a trail of slowing white creep.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Large_Zit",
+    "Image": "../assets/images/items/502.png"
+  },
+  {
+    "Name": "Little Horn",
+    "Category": "I",
+    "ID": "503",
+    "Subname": "Science!",
+    "Description": "Adds a chance to fire a piercing tear that instantly kills any enemy that it touches.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Little_Horn_(Item)",
+    "Image": "../assets/images/items/503.png"
+  },
+  {
+    "Name": "Brown Nugget",
+    "Category": "I",
+    "ID": "504",
+    "Subname": "Friendly fly",
+    "Description": "Spawns a stationary fly familiar that fires tears at nearby enemies.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Brown_Nugget",
+    "Image": "../assets/images/items/504.png"
+  },
+  {
+    "Name": "Poke Go",
+    "Category": "I",
+    "ID": "505",
+    "Subname": "Gotta catch em...",
+    "Description": "Upon entering a room with enemies in it, has a chance to spawn a random friendly enemy that persists across rooms.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Poke_Go",
+    "Image": "../assets/images/items/505.png"
+  },
+  {
+    "Name": "Backstabber",
+    "Category": "I",
+    "ID": "506",
+    "Subname": "Watch your back!",
+    "Description": "Has a chance to fire tears that inflict bleeding on enemies, causing them to slowly take damage over time.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Backstabber",
+    "Image": "../assets/images/items/506.png"
+  },
+  {
+    "Name": "Sharp Straw",
+    "Category": "I",
+    "ID": "507",
+    "Subname": "More blood!",
+    "Description": "Damages all enemies in the room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Sharp_Straw",
+    "Image": "../assets/images/items/507.png"
+  },
+  {
+    "Name": "Mom's Razor",
+    "Category": "I",
+    "ID": "508",
+    "Subname": "It's sharp!",
+    "Description": "Spawns an orbiting razor that damages enemies it touches and inflicts bleeding on enemies, causing them to slowly take damage over time.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mom%27s_Razor",
+    "Image": "../assets/images/items/508.png"
+  },
+  {
+    "Name": "Bloodshot Eye",
+    "Category": "I",
+    "ID": "509",
+    "Subname": "Bloody friend",
+    "Description": "Spawns an orbiting eye familiar that fires tears every 2 seconds.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Bloodshot_Eye",
+    "Image": "../assets/images/items/509.png"
+  },
+  {
+    "Name": "Delirious",
+    "Category": "I",
+    "ID": "510",
+    "Subname": "Unleash the power!",
+    "Description": "Spawns a random charmed boss.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Delirious",
+    "Image": "../assets/images/items/510.png"
+  },
+  {
+    "Name": "Angry Fly",
+    "Category": "I",
+    "ID": "511",
+    "Subname": "He's violent",
+    "Description": "Spawns a fly familiar that orbits around a random enemy and deals 5 damage per tick to enemies it comes in contact with.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Angry_Fly",
+    "Image": "../assets/images/items/511.png"
+  },
+  {
+    "Name": "Black Hole",
+    "Category": "I",
+    "ID": "512",
+    "Subname": "Nothing can escape",
+    "Description": "Throws a black hole on the ground which sucks in and damages enemies.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Black_Hole",
+    "Image": "../assets/images/items/512.png"
+  },
+  {
+    "Name": "Bozo",
+    "Category": "I",
+    "ID": "513",
+    "Subname": "Party time!",
+    "Description": "Increases damage by a flat 0.1 and grants a soul heart. Enemies can randomly become briefly charmed or feared. Taking damage has a chance to spawn a rainbow poop.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Bozo",
+    "Image": "../assets/images/items/513.png"
+  },
+  {
+    "Name": "Broken Modem",
+    "Category": "I",
+    "ID": "514",
+    "Subname": "Lag!",
+    "Description": "Enemies, enemy shots, tears, and pickups will briefly freeze in place at random intervals.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Broken_Modem",
+    "Image": "../assets/images/items/514.png"
+  },
+  {
+    "Name": "Mystery Gift",
+    "Category": "I",
+    "ID": "515",
+    "Subname": "Wrapped up nice for you!",
+    "Description": "Upon use, spawns a random item from the current room's item pool, with a chance to spawn A Lump of Coal or The Poop instead.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mystery_Gift",
+    "Image": "../assets/images/items/515.png"
+  },
+  {
+    "Name": "Sprinkler",
+    "Category": "I",
+    "ID": "516",
+    "Subname": "Sprinkles.",
+    "Description": "Upon use, spawns a sprinkler that rotates and fires tears.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Sprinkler",
+    "Image": "../assets/images/items/516.png"
+  },
+  {
+    "Name": "Fast Bombs",
+    "Category": "I",
+    "ID": "517",
+    "Subname": "Rapid bomb drops",
+    "Description": "Grants 7 bombs and allows bombs to be placed rapidly.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Fast_Bombs",
+    "Image": "../assets/images/items/517.png"
+  },
+  {
+    "Name": "Buddy in a Box",
+    "Category": "I",
+    "ID": "518",
+    "Subname": "What could it be?!",
+    "Description": "Grants a familiar with a random tear effect. The familiar is randomized at the start of each floor.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Buddy_in_a_Box",
+    "Image": "../assets/images/items/518.png"
+  },
+  {
+    "Name": "Lil Delirium",
+    "Category": "I",
+    "ID": "519",
+    "Subname": "Delirious friend",
+    "Description": "Grants a familiar that transforms into another random familiar every 10 seconds.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Lil_Delirium",
+    "Image": "../assets/images/items/519.png"
+  },
+  {
+    "Name": "Jumper Cables",
+    "Category": "I",
+    "ID": "520",
+    "Subname": "Bloody recharge",
+    "Description": "Grants an active item charge every 15 enemies killed.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Jumper_Cables",
+    "Image": "../assets/images/items/520.png"
+  },
+  {
+    "Name": "Coupon",
+    "Category": "I",
+    "ID": "521",
+    "Subname": "Allow 6 weeks for delivery",
+    "Description": "Upon use, makes a random item from a shop, devil deal, or black market free.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Coupon",
+    "Image": "../assets/images/items/521.png"
+  },
+  {
+    "Name": "Telekinesis",
+    "Category": "I",
+    "ID": "522",
+    "Subname": "Power of the mind",
+    "Description": "Upon use, for the next two seconds, any enemy shots that come near Isaac are held in place. After the charge is depleted, they are fired back as tears.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Telekinesis",
+    "Image": "../assets/images/items/522.png"
+  },
+  {
+    "Name": "Moving Box",
+    "Category": "I",
+    "ID": "523",
+    "Subname": "Pack and unpack",
+    "Description": "If the box is empty, picks up all items and pickups in a room and stores them. If the box is not empty, places all stored items and pickups in the current room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Moving_Box",
+    "Image": "../assets/images/items/523.png"
+  },
+  {
+    "Name": "Technology Zero",
+    "Category": "I",
+    "ID": "524",
+    "Subname": "Static tears!",
+    "Description": "Connects Isaac's tears with electricity that can damage enemies.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Technology_Zero",
+    "Image": "../assets/images/items/524.png"
+  },
+  {
+    "Name": "Leprosy",
+    "Category": "I",
+    "ID": "525",
+    "Subname": "You're tearing me apart!",
+    "Description": "Upon taking damage, grants a body part as an orbital, which blocks enemy shots and deals 7 damage per tick to enemies it comes in contact with. The orbitals will be destroyed if they take enough damage from enemies or enemy shots.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Leprosy",
+    "Image": "../assets/images/items/525.png"
+  },
+  {
+    "Name": "7 Seals",
+    "Category": "I",
+    "ID": "526",
+    "Subname": "Lil harbingers!",
+    "Description": "Grants a random Harbinger familiar that changes every 10 seconds.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/7_Seals",
+    "Image": "../assets/images/items/526.png"
+  },
+  {
+    "Name": "Mr. ME!",
+    "Category": "I",
+    "ID": "527",
+    "Subname": "Caaan do!",
+    "Description": "Summons a controllable ghost that can perform various tasks depending on what it targets.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mr._ME!",
+    "Image": "../assets/images/items/527.png"
+  },
+  {
+    "Name": "Angelic Prism",
+    "Category": "I",
+    "ID": "528",
+    "Subname": "Eclipsed by the moon",
+    "Description": "Grants a prism orbital with a large orbital radius. Tears that pass through the prism split into four multi-colored tears.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Angelic_Prism",
+    "Image": "../assets/images/items/528.png"
+  },
+  {
+    "Name": "Pop!",
+    "Category": "I",
+    "ID": "529",
+    "Subname": "Eyeball tears!",
+    "Description": "Replaces Isaac's tears with eyeballs that can bounce off of each other. The eyeballs are not limited by range, and will instead dissipate when they stop moving or when hitting an enemy or obstacle.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Pop!",
+    "Image": "../assets/images/items/529.png"
+  },
+  {
+    "Name": "Death's List",
+    "Category": "I",
+    "ID": "530",
+    "Subname": "Just hope you're not next...",
+    "Description": "Grants a reward if all enemies in a room are killed in the order they are marked.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Death%27s_List",
+    "Image": "../assets/images/items/530.png"
+  },
+  {
+    "Name": "Haemolacria",
+    "Category": "I",
+    "ID": "531",
+    "Subname": "I'm seeing red...",
+    "Description": "Tears are now fired in an arc. Upon hitting the floor, an obstacle, or an enemy, they burst into many smaller tears in all directions. Increases tear delay.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Haemolacria",
+    "Image": "../assets/images/items/531.png"
+  },
+  {
+    "Name": "Lachryphagy",
+    "Category": "I",
+    "ID": "532",
+    "Subname": "Feed them!",
+    "Description": "Isaac's tears decelerate as they travel. Upon stopping or hitting an obstacle, they burst into 8 tears in all directions. Tears can be fired into other tears to feed them, increasing their damage.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Lachryphagy",
+    "Image": "../assets/images/items/532.png"
+  },
+  {
+    "Name": "Trisagion",
+    "Category": "I",
+    "ID": "533",
+    "Subname": "Smite thy enemy",
+    "Description": "Tears are replaced with piercing white blasts of light.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Trisagion",
+    "Image": "../assets/images/items/533.png"
+  },
+  {
+    "Name": "Schoolbag",
+    "Category": "I",
+    "ID": "534",
+    "Subname": "Extra active item room",
+    "Description": "Allows Isaac to hold two active items.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Schoolbag",
+    "Image": "../assets/images/items/534.png"
+  },
+  {
+    "Name": "Blanket",
+    "Category": "I",
+    "ID": "535",
+    "Subname": "You feel Safe",
+    "Description": "Grants one soul heart. Upon entering a boss room, grants a shield that blocks one hit, then disappears.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Blanket",
+    "Image": "../assets/images/items/535.png"
+  },
+  {
+    "Name": "Sacrificial Altar",
+    "Category": "I",
+    "ID": "536",
+    "Subname": "He demands a sacrifice",
+    "Description": "Upon use, sacrifices up to 2 familiars and spawns an item from the Devil Room Pool for each familiar sacrificed.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Sacrificial_Altar",
+    "Image": "../assets/images/items/536.png"
+  },
+  {
+    "Name": "Lil Spewer",
+    "Category": "I",
+    "ID": "537",
+    "Subname": "Puking buddy",
+    "Description": "Spawns a random pill, and grants a small Spewer familiar that charges up and fires different types of creep.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Lil_Spewer",
+    "Image": "../assets/images/items/537.png"
+  },
+  {
+    "Name": "Marbles",
+    "Category": "I",
+    "ID": "538",
+    "Subname": "Choking hazard",
+    "Description": "Spawns 3 random trinkets. Taking damage has a small chance to swallow Isaac's currently held trinket, gaining its effect permanently.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Marbles",
+    "Image": "../assets/images/items/538.png"
+  },
+  {
+    "Name": "Mystery Egg",
+    "Category": "I",
+    "ID": "539",
+    "Subname": "Sacrificial insemination",
+    "Description": "Spawns an egg familiar, which cracks and turns into a random friendly enemy when Isaac is hurt. The egg regenerates upon entering a different room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mystery_Egg",
+    "Image": "../assets/images/items/539.png"
+  },
+  {
+    "Name": "Flat Stone",
+    "Category": "I",
+    "ID": "540",
+    "Subname": "Skipping tears",
+    "Description": "Tears bounce off the floor. Tears that hit an enemy after bouncing deal splash damage to all nearby enemies for 25% of Isaac's tear damage.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Flat_Stone",
+    "Image": "../assets/images/items/540.png"
+  },
+  {
+    "Name": "Marrow",
+    "Category": "I",
+    "ID": "541",
+    "Subname": "HP up?",
+    "Description": "Grants one bone heart and spawns three red heart pickups.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Marrow",
+    "Image": "../assets/images/items/541.png"
+  },
+  {
+    "Name": "Slipped Rib",
+    "Category": "I",
+    "ID": "542",
+    "Subname": "Projectile shield",
+    "Description": "Spawns a bone familiar that circles around Isaac and reflects enemy shots.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Slipped_Rib",
+    "Image": "../assets/images/items/542.png"
+  },
+  {
+    "Name": "Hallowed Ground",
+    "Category": "I",
+    "ID": "543",
+    "Subname": "Portable sanctuary",
+    "Description": "Spawns a white poop familiar, which turns into a white poop when Isaac is hurt.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Hallowed_Ground",
+    "Image": "../assets/images/items/543.png"
+  },
+  {
+    "Name": "Pointy Rib",
+    "Category": "I",
+    "ID": "544",
+    "Subname": "Stabbing time",
+    "Description": "Spawns a bone familiar that can be aimed with the fire buttons and does contact damage.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Pointy_Rib",
+    "Image": "../assets/images/items/544.png"
+  },
+  {
+    "Name": "Book of the Dead",
+    "Category": "I",
+    "ID": "545",
+    "Subname": "Rise from the grave",
+    "Description": "Upon use, spawns a friendly Bony or an orbital bone for each enemy killed in the current room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Book_of_the_Dead",
+    "Image": "../assets/images/items/545.png"
+  },
+  {
+    "Name": "Dad's Ring",
+    "Category": "I",
+    "ID": "546",
+    "Subname": "Father's blessing",
+    "Description": "Creates a ring of light around Isaac that petrifies enemies in contact.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Dad%27s_Ring",
+    "Image": "../assets/images/items/546.png"
+  },
+  {
+    "Name": "Divorce Papers",
+    "Category": "I",
+    "ID": "547",
+    "Subname": "Tears up + you feel empty",
+    "Description": "Spawns a Mysterious Paper, increases tears, and grants a bone heart.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Divorce_Papers",
+    "Image": "../assets/images/items/547.png"
+  },
+  {
+    "Name": "Jaw Bone",
+    "Category": "I",
+    "ID": "548",
+    "Subname": "Fetch!",
+    "Description": "Spawns a familiar that flies the room while firing, dealing a flat 7 damage to enemies that come in contact and retrieving pickups.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Jaw_Bone",
+    "Image": "../assets/images/items/548.png"
+  },
+  {
+    "Name": "Brittle Bones",
+    "Category": "I",
+    "ID": "549",
+    "Subname": "Everything hurts",
+    "Description": "Replaces all red hearts with 6 empty bone hearts. Upon losing a bone heart, Isaac fires bones in 8 directions and permanently gains a tears up.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Brittle_Bones",
+    "Image": "../assets/images/items/549.png"
+  },
+  {
+    "Name": "Broken Shovel",
+    "Category": "I",
+    "ID": "550",
+    "Subname": "It feels cursed",
+    "Description": "While held, causes multiple Mom's Foots to come down and stomp on Isaac. One of two parts necessary to create Mom's Shovel.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Broken_Shovel",
+    "Image": "../assets/images/items/550.png"
+  },
+  {
+    "Name": "Broken Shovel",
+    "Category": "I",
+    "ID": "551",
+    "Subname": "It feels cursed",
+    "Description": "One of two parts necessary to create Mom's Shovel.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Broken_Shovel",
+    "Image": "../assets/images/items/551.png"
+  },
+  {
+    "Name": "Mom's Shovel",
+    "Category": "I",
+    "ID": "552",
+    "Subname": "Lost but not forgotten",
+    "Description": "Spawns a trapdoor that leads to the next floor upon activation. Unlocks The Forgotten when used on a mound of dirt that appears in Dark Room.",
+    "Link": "https://bindingofisaacrebirth.gamepedia.com/Mom%27s_Shovel",
+    "Image": "../assets/images/items/552.png"
+  }
+]
