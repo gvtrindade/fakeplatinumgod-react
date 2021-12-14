@@ -1,16 +1,13 @@
-import * as trinketData from '../assets/trinkets.json';
-
-export default function TrinketIcons({ itemCategory }) {
-
+export default function TrinketIcons({ itemCategory, displayedTrinkets }) {
   return (
     <div>
-      {Object.values(trinketData)[0].map((item) => (
+      {displayedTrinkets.map((item,index) => (
         <div>
           <a href={item.Link} target="_blank" rel="noreferrer">
             <img
-              src={require(`../assets/images/${itemCategory}/${item.ID}.png`).default}
+              src={require(`../assets/images/${item.ID}${itemCategory}.png`).default}
               alt={item.Name}
-              key={item.ID + item.Category}
+              key={index}
             />
           </a>
         </div>

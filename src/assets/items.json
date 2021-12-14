@@ -1,27 +1,27 @@
 [
   {
     "Name": "The Sad Onion",
+    "Subname": "Tears up",
     "Category": "I",
     "ID": "1",
-    "Subname": "Tears up",
     "Description": "Increases Tears by 0.7.",
     "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Sad_Onion",
     "Image": "../assets/images/items/1.png"
   },
   {
     "Name": "The Inner Eye",
+    "Subname": "Triple shot",
     "Category": "I",
     "ID": "2",
-    "Subname": "Triple shot",
     "Description": "Grants triple shot but decreases tears.",
     "Link": "https://bindingofisaacrebirth.gamepedia.com/The_Inner_Eye",
     "Image": "../assets/images/items/2.png"
   },
   {
     "Name": "Spoon Bender",
+    "Subname": "Homing shots",
     "Category": "I",
     "ID": "3",
-    "Subname": "Homing shots",
     "Description": "Grants Isaac homing tears.",
     "Link": "https://bindingofisaacrebirth.gamepedia.com/Spoon_Bender",
     "Image": "../assets/images/items/3.png"

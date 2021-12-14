@@ -1,15 +1,13 @@
-import * as itemData from '../assets/items.json';
-
-export default function ItemIcons({ itemCategory }) {
+export default function ItemIcons({ itemCategory, displayedItems }) {
   return (
     <div>
-      {Object.values(itemData)[0].map((item) => (
+      {displayedItems.map((item,index) => (
         <div>
           <a href={item.Link} target="_blank" rel="noreferrer">
             <img
-              src={require(`../assets/images/${itemCategory}/${item.ID}.png`).default}
+              src={require(`../assets/images/${item.ID}${itemCategory}.png`).default}
               alt={item.Name}
-              key={item.ID + item.Category}
+              key={index}
             />
           </a>
         </div>
