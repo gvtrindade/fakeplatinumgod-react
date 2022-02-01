@@ -3,8 +3,8 @@ import Button from './components/Button';
 import ItemIcons from './components/ItemIcons';
 import SearchBar from './components/SearchBar';
 import TrinketIcons from './components/TrinketIcons';
-import * as itemData from './assets/items.json';
-import * as trinketData from './assets/trinkets.json';
+import * as itemData from './assets/Items.json';
+import * as trinketData from './assets/Trinkets.json';
 import { useState } from 'react';
 import InfoModal from './components/InfoModal';
 
@@ -19,7 +19,7 @@ export default function App() {
     modalStyle === 'inline' ? setModalStyle('none') : setModalStyle('inline');
   };
 
-  window.onclick = function (event) {
+  window.onclick = (event) => {
     if (event.target.className === 'modal') {
       showModal();
     }
@@ -48,7 +48,7 @@ export default function App() {
 
   return (
     <>
-      <div>
+      <div className='searchBar center'>
         <SearchBar
           items={items}
           trinkets={trinkets}
