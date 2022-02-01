@@ -17,9 +17,14 @@ export default function SearchBar({
     );
   };
 
+  window.onfocus = (event) => {
+    document.getElementById('searchbar').select();
+  };
+
   return (
     <>
       <input
+        id="searchbar"
         type="text"
         placeholder="Search"
         onChange={({ target }) => filterItems(target.value)}

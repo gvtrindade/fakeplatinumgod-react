@@ -9,13 +9,21 @@ export default function ItemIcons({
     showModal();
   };
 
+  const getSRCImages = (item) =>{
+    try {
+      return require(`../assets/images/${item.ID}${itemCategory}.png`).default
+    } catch {
+      return ""
+    }
+  }
+
   return (
-    <div>
+    <div className="grid">
       {displayedItems.map((item, index) => (
         <div onClick={({ target }) => showInfo(target.id)}>
           <img
             src={
-              require(`../assets/images/${item.ID}${itemCategory}.png`).default
+              getSRCImages(item)
             }
             alt={item.Name}
             id={item.Name}
