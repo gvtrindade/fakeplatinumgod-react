@@ -11,7 +11,7 @@ export default function ItemIcons({
 
   const getSRCImages = (item) =>{
     try {
-      return require(`../assets/images/${item.ID}${itemCategory}.png`).default
+      return require(`../../assets/images/${item.ID}${itemCategory}.png`).default
     } catch {
       return ""
     }

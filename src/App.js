@@ -1,12 +1,12 @@
 import './App.css';
-import Button from './components/Button';
-import ItemIcons from './components/ItemIcons';
-import SearchBar from './components/SearchBar';
-import TrinketIcons from './components/TrinketIcons';
+import Button from './components/Button/Button';
+import ItemIcons from './components/ItemIcons/ItemIcons';
+import SearchBar from './components/SearchBar/SearchBar';
+import TrinketIcons from './components/TrinketIcons/TrinketIcons';
+import InfoModal from './components/InfoModal/InfoModal';
 import * as itemData from './assets/Items.json';
 import * as trinketData from './assets/Trinkets.json';
 import { useState } from 'react';
-import InfoModal from './components/InfoModal';
 
 export default function App() {
   const items = Object.values(itemData)[0];
@@ -59,7 +59,7 @@ export default function App() {
         <Button buttonValue={'Trinkets'} hideItemsOrTrinkets={hideItemsOrTrinkets} />
       </div>
 
-      <div style={{ display: modalStyle }}>
+      <div style={{ display: modalStyle }} className="modal">
         <InfoModal selectedItem={selectedItem} />
       </div>
 

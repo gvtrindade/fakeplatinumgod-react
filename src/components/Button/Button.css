@@ -1,0 +1,24 @@
+.button {
+  color: white;
+  border-width: 0;
+}
+
+.button:hover {
+  cursor: pointer;
+}
+
+#ItemsButton {
+  background-color: blue;
+}
+
+#ItemsButton:hover {
+  background-color: rgba(0, 0, 255, 0.7);
+}
+
+#TrinketsButton {
+  background-color: green;
+}
+
+#TrinketsButton:hover {
+  background-color: rgba(0, 128, 0, 0.7);
+}
