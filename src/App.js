@@ -63,7 +63,7 @@ export default function App() {
         <InfoModal selectedItem={selectedItem} />
       </div>
 
-      <div>
+      <div className='content'>
         {isItemsActive && <ItemIcons
           id="Items"
           itemCategory="I"
