@@ -3,37 +3,36 @@
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 0, 0, 0.7);
 }
 
 .modalContent {
   animation: myAnimation 0.2s;
-  background-color: #555;
+  background-color: rgb(95, 95, 95);
   color: #fff;
   margin: 10% auto;
   padding: 1%;
-  width: 25rem;
+  width: 20rem;
   text-align: center;
   border: 0px solid black;
   border-radius: 6px;
-  font-family: "Open Sans", sans-serif;
 }
 
 @keyframes myAnimation {
   from {
-      margin: -15% auto;
+    margin: -15% auto;
   }
   to {
-      margin: 10% auto;
+    margin: 10% auto;
   }
 }
 
-.name{
+.name {
   font-size: 21px;
   margin-bottom: 0;
 }
 
-.subname{
+.subname {
   font-size: 14px;
   font-weight: 100;
   margin-top: 0;

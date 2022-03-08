@@ -11,18 +11,18 @@
   background-color: #929292;
 }
 
-#ItemsButton {
+.items {
   background-color: blue;
 }
 
-#ItemsButton:hover {
+.items:hover {
   background-color: #6400ff;
 }
 
-#TrinketsButton {
+.trinkets {
   background-color: green;
 }
 
-#TrinketsButton:hover {
+.trinkets:hover {
   background-color: #02a502;
 }

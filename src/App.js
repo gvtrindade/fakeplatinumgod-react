@@ -1,8 +1,7 @@
 import './App.css';
 import Button from './components/Button/Button';
-import ItemIcons from './components/ItemIcons/ItemIcons';
+import Icons from './components/Icons/Icons';
 import SearchBar from './components/SearchBar/SearchBar';
-import TrinketIcons from './components/TrinketIcons/TrinketIcons';
 import InfoModal from './components/InfoModal/InfoModal';
 import * as itemData from './assets/Items.json';
 import * as trinketData from './assets/Trinkets.json';
@@ -64,17 +63,17 @@ export default function App() {
       </div>
 
       <div className='content'>
-        {isItemsActive && <ItemIcons
+        {isItemsActive && <Icons
           id="Items"
           itemCategory="I"
           displayedItems={displayedItems}
           showModal={showModal}
           setSelectedItem={setSelectedItem}
         />}
-        {isTrinketsActive && <TrinketIcons
+        {isTrinketsActive && <Icons
           id="Trinkets"
           itemCategory="T"
-          displayedTrinkets={displayedTrinkets}
+          displayedItems={displayedTrinkets}
           showModal={showModal}
           setSelectedItem={setSelectedItem}
         />}

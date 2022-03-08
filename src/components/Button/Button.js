@@ -1,19 +1,33 @@
-import { useState } from 'react' 
+import { useState } from 'react';
 
-import "./Button.css"
+import './Button.css';
 
+let deactivatedButtonCategory;
+let isAButtonDeactivated = false;
 
 export default function Button({ buttonValue, hideItemsOrTrinkets }) {
+  let buttonCategory;
+  buttonValue === 'Items'
+    ? (buttonCategory = 'items')
+    : (buttonCategory = 'trinkets');
 
-  const [buttonClass, setButtonClass] = useState("button");
+  const [buttonClass, setButtonClass] = useState(`button ${buttonCategory}`);
+
   const hideCategory = (categoryToHide) => {
-    hideItemsOrTrinkets(categoryToHide)
-    if (buttonClass === "button"){
-      setButtonClass("button deactivated")
-    } else {
-      setButtonClass("button")
+    hideItemsOrTrinkets(categoryToHide);
+
+    if (!isAButtonDeactivated) {
+      setButtonClass('button deactivated');
+      deactivatedButtonCategory = buttonCategory;
+      isAButtonDeactivated = true;
+    } else if (
+      isAButtonDeactivated &&
+      deactivatedButtonCategory === buttonCategory
+    ) {
+      setButtonClass(`button ${buttonCategory}`);
+      isAButtonDeactivated = false;
     }
-  }
+  };
 
   return (
     <input
