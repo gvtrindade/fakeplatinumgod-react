@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fakeplatinumgod/static/css/main.655b3968.chunk.css",
+    "main.js": "/fakeplatinumgod/static/js/main.5b8b08eb.chunk.js",
+    "main.js.map": "/fakeplatinumgod/static/js/main.5b8b08eb.chunk.js.map",
+    "runtime-main.js": "/fakeplatinumgod/static/js/runtime-main.843bf66e.js",
+    "runtime-main.js.map": "/fakeplatinumgod/static/js/runtime-main.843bf66e.js.map",
+    "static/js/2.2f402fa7.chunk.js": "/fakeplatinumgod/static/js/2.2f402fa7.chunk.js",
+    "static/js/2.2f402fa7.chunk.js.map": "/fakeplatinumgod/static/js/2.2f402fa7.chunk.js.map",
+    "index.html": "/fakeplatinumgod/index.html",
+    "static/css/main.655b3968.chunk.css.map": "/fakeplatinumgod/static/css/main.655b3968.chunk.css.map",
+    "static/js/2.2f402fa7.chunk.js.LICENSE.txt": "/fakeplatinumgod/static/js/2.2f402fa7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.843bf66e.js",
+    "static/js/2.2f402fa7.chunk.js",
+    "static/css/main.655b3968.chunk.css",
+    "static/js/main.5b8b08eb.chunk.js"
+  ]
+}
