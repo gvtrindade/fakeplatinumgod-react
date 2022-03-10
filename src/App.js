@@ -8,16 +8,17 @@ import * as trinketData from './assets/Trinkets.json';
 import { useState } from 'react';
 
 export default function App() {
-  const items = Object.values(itemData)[0];
-  const trinkets = Object.values(trinketData)[0];
+  
+  const items = itemData.default;
+  const trinkets = trinketData.default;
   const [displayedItems, setDisplayedItems] = useState(items);
   const [displayedTrinkets, setDisplayedTrinkets] = useState(trinkets);
-
+  
   const [modalStyle, setModalStyle] = useState('none');
   const showModal = () => {
     modalStyle === 'inline' ? setModalStyle('none') : setModalStyle('inline');
   };
-
+  
   window.onclick = (event) => {
     if (event.target.className === 'modal') {
       showModal();
@@ -25,7 +26,6 @@ export default function App() {
   };
 
   const [selectedItem, setSelectedItem] = useState();
-
   const [isItemsActive, setIsItemsActive] = useState(true)
   const [isTrinketsActive, setIsTrinketsActive] = useState(true)
 

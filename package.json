@@ -1,7 +1,7 @@
 {
-  "homepage": "http://gvtrindade.github.io/fakeplatinumgod-react/",
   "name": "fakeplatinumgod-react",
   "version": "0.1.0",
+  "homepage": "http://gvtrindade.github.io/fakeplatinumgod-react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
